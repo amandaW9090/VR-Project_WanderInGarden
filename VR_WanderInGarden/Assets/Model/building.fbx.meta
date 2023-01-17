@@ -1,0 +1,2860 @@
+fileFormatVersion: 2
+guid: 6062547a27d744248bf7900d910db884
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 4964072102658169530
+    second: "\u8D70\u5ECA.002|FF01|Take 001|BaseLayer.001"
+  - first:
+      74: 3049677363220755338
+    second: "\u8D70\u5ECA.002|FF01|Take 001|BaseLayer.003"
+  - first:
+      74: -912993398716402265
+    second: "\u8D70\u5ECA.002|FF08|Take 001|BaseLayer.011"
+  - first:
+      74: 905959277708626144
+    second: "\u8D70\u5ECA.002|FF08|Take 001|BaseLayer.012"
+  - first:
+      74: 6440169773349406462
+    second: "\u8D70\u5ECA.002|FF08|Take 001|BaseLayer.013"
+  - first:
+      74: -7366074082785259231
+    second: "\u8D70\u5ECA.002|FF08|Take 001|BaseLayer.014"
+  - first:
+      74: 8250020365586585298
+    second: "\u8D70\u5ECA.002|FF08|Take 001|BaseLayer.016"
+  - first:
+      74: 8114552294054526614
+    second: "\u8D70\u5ECA.002|FF08|Take 001|BaseLayer.017"
+  - first:
+      74: 2416047660466038324
+    second: "\u8D70\u5ECA.002|FF08|Take 001|BaseLayer.018"
+  - first:
+      74: -4024656597883500752
+    second: "\u8D70\u5ECA.002|FF08|Take 001|BaseLayer.019"
+  - first:
+      74: 4510179559104168679
+    second: "\u8D70\u5ECA.002|FF08|Take 001|BaseLayer.020"
+  - first:
+      74: -9157920353334466795
+    second: "\u8D70\u5ECA.002|FF08|Take 001|BaseLayer.021"
+  - first:
+      74: 1916353250418859902
+    second: "\u8D70\u5ECA.002|FF08|Take 001|BaseLayer.022"
+  - first:
+      74: -1052665455618767678
+    second: "\u8D70\u5ECA.002|FF08|Take 001|BaseLayer.023"
+  - first:
+      74: -5491257307866178513
+    second: "\u8D70\u5ECA.002|FF08|Take 001|BaseLayer.024"
+  - first:
+      74: 71028618823935949
+    second: "\u8D70\u5ECA.002|FF08|Take 001|BaseLayer.025"
+  - first:
+      74: -6147433619223243193
+    second: "\u8D70\u5ECA.002|FF08|Take 001|BaseLayer.026"
+  - first:
+      74: -271207224153460878
+    second: "\u8D70\u5ECA.002|FF08|Take 001|BaseLayer.027"
+  - first:
+      74: 1599056908714369873
+    second: "\u8D70\u5ECA.002|FF08|Take 001|BaseLayer.028"
+  - first:
+      74: 2114376910712006832
+    second: "\u8D70\u5ECA.002|FF08|Take 001|BaseLayer.029"
+  - first:
+      74: 1753103146396956971
+    second: "\u8D70\u5ECA.002|FF08|Take 001|BaseLayer.030"
+  - first:
+      74: -5474780143474202236
+    second: "\u8D70\u5ECA.002|FF08|Take 001|BaseLayer.031"
+  - first:
+      74: 6031734161355756427
+    second: "\u8D70\u5ECA.002|FF08|Take 001|BaseLayer.032"
+  - first:
+      74: -7470542767639951524
+    second: "\u8D70\u5ECA.002|FF20|Take 001|BaseLayer.001"
+  - first:
+      74: 1130473452522657400
+    second: "\u8D70\u5ECA.002|FF20|Take 001|BaseLayer.002"
+  - first:
+      74: -1710051629161385746
+    second: "\u8D70\u5ECA.002|FF20|Take 001|BaseLayer.003"
+  - first:
+      74: 8774480890165901480
+    second: "\u8D70\u5ECA.002|FF22|Take 001|BaseLayer.002"
+  - first:
+      74: 2774179954414156093
+    second: "\u8D70\u5ECA.002|Shader NodetreeAction.004"
+  - first:
+      74: -3991591409449374844
+    second: "\u8D70\u5ECA.002|Shader NodetreeAction.007"
+  - first:
+      74: -1887068013442722325
+    second: "\u8D70\u5ECA.002|Shader NodetreeAction.012"
+  - first:
+      74: -3907990079816496943
+    second: "\u8D70\u5ECA.002|Shader NodetreeAction.015"
+  - first:
+      74: 3070064260724362367
+    second: "\u8D70\u5ECA.002|Shader NodetreeAction.017"
+  - first:
+      74: 4530379073098626037
+    second: "\u8D70\u5ECA.002|Shader NodetreeAction.021"
+  - first:
+      74: 6832789735323571452
+    second: "\u8D70\u5ECA.002|Shader NodetreeAction.022"
+  - first:
+      74: 7329889954153396942
+    second: "\u8D70\u5ECA.001|FF01|Take 001|BaseLayer.001"
+  - first:
+      74: -227187882308111824
+    second: "\u8D70\u5ECA.001|FF01|Take 001|BaseLayer.003"
+  - first:
+      74: -69565849882311337
+    second: "\u8D70\u5ECA.001|FF08|Take 001|BaseLayer.011"
+  - first:
+      74: 2303063695722931146
+    second: "\u8D70\u5ECA.001|FF08|Take 001|BaseLayer.012"
+  - first:
+      74: 8765833574003383915
+    second: "\u8D70\u5ECA.001|FF08|Take 001|BaseLayer.013"
+  - first:
+      74: 7069117292972917250
+    second: "\u8D70\u5ECA.001|FF08|Take 001|BaseLayer.014"
+  - first:
+      74: -6208807185358136522
+    second: "\u8D70\u5ECA.001|FF08|Take 001|BaseLayer.016"
+  - first:
+      74: -2840196337042141053
+    second: "\u8D70\u5ECA.001|FF08|Take 001|BaseLayer.017"
+  - first:
+      74: -1064037637709929192
+    second: "\u8D70\u5ECA.001|FF08|Take 001|BaseLayer.018"
+  - first:
+      74: 1723303211238523793
+    second: "\u8D70\u5ECA.001|FF08|Take 001|BaseLayer.019"
+  - first:
+      74: 1979215131377176207
+    second: "\u8D70\u5ECA.001|FF08|Take 001|BaseLayer.020"
+  - first:
+      74: -2997422347588505053
+    second: "\u8D70\u5ECA.001|FF08|Take 001|BaseLayer.021"
+  - first:
+      74: 4035483837365996609
+    second: "\u8D70\u5ECA.001|FF08|Take 001|BaseLayer.022"
+  - first:
+      74: 7866560593146269733
+    second: "\u8D70\u5ECA.001|FF08|Take 001|BaseLayer.023"
+  - first:
+      74: -6576384806379328908
+    second: "\u8D70\u5ECA.001|FF08|Take 001|BaseLayer.024"
+  - first:
+      74: -6678705630566541432
+    second: "\u8D70\u5ECA.001|FF08|Take 001|BaseLayer.025"
+  - first:
+      74: 6487907005967754103
+    second: "\u8D70\u5ECA.001|FF08|Take 001|BaseLayer.026"
+  - first:
+      74: -8007852986394976141
+    second: "\u8D70\u5ECA.001|FF08|Take 001|BaseLayer.027"
+  - first:
+      74: -7590642308613371218
+    second: "\u8D70\u5ECA.001|FF08|Take 001|BaseLayer.028"
+  - first:
+      74: 6883477288246807167
+    second: "\u8D70\u5ECA.001|FF08|Take 001|BaseLayer.029"
+  - first:
+      74: 1477749593723647941
+    second: "\u8D70\u5ECA.001|FF08|Take 001|BaseLayer.030"
+  - first:
+      74: -5112715088983538516
+    second: "\u8D70\u5ECA.001|FF08|Take 001|BaseLayer.031"
+  - first:
+      74: 119069323111041491
+    second: "\u8D70\u5ECA.001|FF08|Take 001|BaseLayer.032"
+  - first:
+      74: 5116623004233955400
+    second: "\u8D70\u5ECA.001|FF20|Take 001|BaseLayer.001"
+  - first:
+      74: 2428389443315909033
+    second: "\u8D70\u5ECA.001|FF20|Take 001|BaseLayer.002"
+  - first:
+      74: -5581005771124098866
+    second: "\u8D70\u5ECA.001|FF20|Take 001|BaseLayer.003"
+  - first:
+      74: -3041485350270719220
+    second: "\u8D70\u5ECA.001|FF22|Take 001|BaseLayer.002"
+  - first:
+      74: -5143660835922934126
+    second: "\u8D70\u5ECA.001|Shader NodetreeAction.004"
+  - first:
+      74: -7665111531444774458
+    second: "\u8D70\u5ECA.001|Shader NodetreeAction.007"
+  - first:
+      74: -6007152132170200965
+    second: "\u8D70\u5ECA.001|Shader NodetreeAction.012"
+  - first:
+      74: 1948260355299682212
+    second: "\u8D70\u5ECA.001|Shader NodetreeAction.015"
+  - first:
+      74: -8937319621374941235
+    second: "\u8D70\u5ECA.001|Shader NodetreeAction.017"
+  - first:
+      74: 4296509336976821120
+    second: "\u8D70\u5ECA.001|Shader NodetreeAction.021"
+  - first:
+      74: 3811529120755464929
+    second: "\u8D70\u5ECA.001|Shader NodetreeAction.022"
+  - first:
+      74: 2909695477014178691
+    second: FF22.002|FF01|Take 001|BaseLayer.001
+  - first:
+      74: -1106154277517403969
+    second: FF22.002|FF01|Take 001|BaseLayer.003
+  - first:
+      74: 2095050635437935575
+    second: FF22.002|FF08|Take 001|BaseLayer.011
+  - first:
+      74: -7960117882193083351
+    second: FF22.002|FF08|Take 001|BaseLayer.012
+  - first:
+      74: 8043813655306747581
+    second: FF22.002|FF08|Take 001|BaseLayer.013
+  - first:
+      74: -5106680495274125381
+    second: FF22.002|FF08|Take 001|BaseLayer.014
+  - first:
+      74: -7911496765303359694
+    second: FF22.002|FF08|Take 001|BaseLayer.016
+  - first:
+      74: 3250612322792065617
+    second: FF22.002|FF08|Take 001|BaseLayer.017
+  - first:
+      74: 5913284034260522476
+    second: FF22.002|FF08|Take 001|BaseLayer.018
+  - first:
+      74: -8817758816958600798
+    second: FF22.002|FF08|Take 001|BaseLayer.019
+  - first:
+      74: -2777165799391754306
+    second: FF22.002|FF08|Take 001|BaseLayer.020
+  - first:
+      74: -3106218551359069059
+    second: FF22.002|FF08|Take 001|BaseLayer.021
+  - first:
+      74: 4936930902808976492
+    second: FF22.002|FF08|Take 001|BaseLayer.022
+  - first:
+      74: 3469193241110480985
+    second: FF22.002|FF08|Take 001|BaseLayer.023
+  - first:
+      74: 3867934183695305699
+    second: FF22.002|FF08|Take 001|BaseLayer.024
+  - first:
+      74: -4301804507629227250
+    second: FF22.002|FF08|Take 001|BaseLayer.025
+  - first:
+      74: 8167223310128341655
+    second: FF22.002|FF08|Take 001|BaseLayer.026
+  - first:
+      74: 7164179510633878134
+    second: FF22.002|FF08|Take 001|BaseLayer.027
+  - first:
+      74: -2983559382843990027
+    second: FF22.002|FF08|Take 001|BaseLayer.028
+  - first:
+      74: 7289076858044541971
+    second: FF22.002|FF08|Take 001|BaseLayer.029
+  - first:
+      74: 3201533101900061672
+    second: FF22.002|FF08|Take 001|BaseLayer.030
+  - first:
+      74: -6831675083267605363
+    second: FF22.002|FF08|Take 001|BaseLayer.031
+  - first:
+      74: 749380994500288586
+    second: FF22.002|FF08|Take 001|BaseLayer.032
+  - first:
+      74: -4990845506285746376
+    second: FF22.002|FF20|Take 001|BaseLayer.001
+  - first:
+      74: 7093029590435363734
+    second: FF22.002|FF20|Take 001|BaseLayer.002
+  - first:
+      74: -5612691121045734453
+    second: FF22.002|FF20|Take 001|BaseLayer.003
+  - first:
+      74: -1937457973768319622
+    second: FF22.002|FF22|Take 001|BaseLayer.002
+  - first:
+      74: -7591585421645251732
+    second: FF22.002|Shader NodetreeAction.004
+  - first:
+      74: 2417667076089996998
+    second: FF22.002|Shader NodetreeAction.007
+  - first:
+      74: -4214695290199521705
+    second: FF22.002|Shader NodetreeAction.012
+  - first:
+      74: 2994936100558128097
+    second: FF22.002|Shader NodetreeAction.015
+  - first:
+      74: 1920093930666163036
+    second: FF22.002|Shader NodetreeAction.017
+  - first:
+      74: 6082334093280302194
+    second: FF22.002|Shader NodetreeAction.021
+  - first:
+      74: 7926539308116496943
+    second: FF22.002|Shader NodetreeAction.022
+  - first:
+      74: 4751207130455114236
+    second: FF20.003|FF01|Take 001|BaseLayer.001
+  - first:
+      74: 4995038790721815895
+    second: FF20.003|FF01|Take 001|BaseLayer.003
+  - first:
+      74: 6446526614301426646
+    second: FF20.003|FF08|Take 001|BaseLayer.011
+  - first:
+      74: 8829667408724689872
+    second: FF20.003|FF08|Take 001|BaseLayer.012
+  - first:
+      74: 1139137385029796710
+    second: FF20.003|FF08|Take 001|BaseLayer.013
+  - first:
+      74: -7347955883131468394
+    second: FF20.003|FF08|Take 001|BaseLayer.014
+  - first:
+      74: 5315927147913384584
+    second: FF20.003|FF08|Take 001|BaseLayer.016
+  - first:
+      74: 4721737539411967248
+    second: FF20.003|FF08|Take 001|BaseLayer.017
+  - first:
+      74: 4734379828003479966
+    second: FF20.003|FF08|Take 001|BaseLayer.018
+  - first:
+      74: 2901820172072815235
+    second: FF20.003|FF08|Take 001|BaseLayer.019
+  - first:
+      74: -5974783904790200873
+    second: FF20.003|FF08|Take 001|BaseLayer.020
+  - first:
+      74: 1099670162789466671
+    second: FF20.003|FF08|Take 001|BaseLayer.021
+  - first:
+      74: -5720379862692151159
+    second: FF20.003|FF08|Take 001|BaseLayer.022
+  - first:
+      74: 6655743567593699466
+    second: FF20.003|FF08|Take 001|BaseLayer.023
+  - first:
+      74: -1814500153074997142
+    second: FF20.003|FF08|Take 001|BaseLayer.024
+  - first:
+      74: 6672447086311961225
+    second: FF20.003|FF08|Take 001|BaseLayer.025
+  - first:
+      74: 7490516172897799547
+    second: FF20.003|FF08|Take 001|BaseLayer.026
+  - first:
+      74: 1017062604763434791
+    second: FF20.003|FF08|Take 001|BaseLayer.027
+  - first:
+      74: 3069699107684041607
+    second: FF20.003|FF08|Take 001|BaseLayer.028
+  - first:
+      74: 86104372827865268
+    second: FF20.003|FF08|Take 001|BaseLayer.029
+  - first:
+      74: 2345979300024627199
+    second: FF20.003|FF08|Take 001|BaseLayer.030
+  - first:
+      74: -7835577246794137029
+    second: FF20.003|FF08|Take 001|BaseLayer.031
+  - first:
+      74: 1626448582242668031
+    second: FF20.003|FF08|Take 001|BaseLayer.032
+  - first:
+      74: 9192594118071189366
+    second: FF20.003|FF20|Take 001|BaseLayer.001
+  - first:
+      74: 1550225102386031034
+    second: FF20.003|FF20|Take 001|BaseLayer.002
+  - first:
+      74: -6471847776800187604
+    second: FF20.003|FF20|Take 001|BaseLayer.003
+  - first:
+      74: 8765597222270611407
+    second: FF20.003|FF22|Take 001|BaseLayer.002
+  - first:
+      74: -622065470402481118
+    second: FF20.003|Shader NodetreeAction.004
+  - first:
+      74: -6121654483596968103
+    second: FF20.003|Shader NodetreeAction.007
+  - first:
+      74: -8210355675987137467
+    second: FF20.003|Shader NodetreeAction.012
+  - first:
+      74: 3332636610153130148
+    second: FF20.003|Shader NodetreeAction.015
+  - first:
+      74: -6124453312252262715
+    second: FF20.003|Shader NodetreeAction.017
+  - first:
+      74: -4957974476450706052
+    second: FF20.003|Shader NodetreeAction.021
+  - first:
+      74: -1689012059345601753
+    second: FF20.003|Shader NodetreeAction.022
+  - first:
+      74: -284541406134580377
+    second: FF20.002|FF01|Take 001|BaseLayer.001
+  - first:
+      74: 4023245825448118013
+    second: FF20.002|FF01|Take 001|BaseLayer.003
+  - first:
+      74: -970944639798146304
+    second: FF20.002|FF08|Take 001|BaseLayer.011
+  - first:
+      74: 8297390222502350975
+    second: FF20.002|FF08|Take 001|BaseLayer.012
+  - first:
+      74: 5787399899676175042
+    second: FF20.002|FF08|Take 001|BaseLayer.013
+  - first:
+      74: 7509933434162140281
+    second: FF20.002|FF08|Take 001|BaseLayer.014
+  - first:
+      74: 8720458425347578865
+    second: FF20.002|FF08|Take 001|BaseLayer.016
+  - first:
+      74: -758577879715049105
+    second: FF20.002|FF08|Take 001|BaseLayer.017
+  - first:
+      74: 8023159609281032990
+    second: FF20.002|FF08|Take 001|BaseLayer.018
+  - first:
+      74: 7056301834110658235
+    second: FF20.002|FF08|Take 001|BaseLayer.019
+  - first:
+      74: -5819715225003362930
+    second: FF20.002|FF08|Take 001|BaseLayer.020
+  - first:
+      74: 288681764001021943
+    second: FF20.002|FF08|Take 001|BaseLayer.021
+  - first:
+      74: 3879432779859684038
+    second: FF20.002|FF08|Take 001|BaseLayer.022
+  - first:
+      74: -4787755241076341946
+    second: FF20.002|FF08|Take 001|BaseLayer.023
+  - first:
+      74: -3896784518255466830
+    second: FF20.002|FF08|Take 001|BaseLayer.024
+  - first:
+      74: -4681452385170278303
+    second: FF20.002|FF08|Take 001|BaseLayer.025
+  - first:
+      74: 5846485989681601668
+    second: FF20.002|FF08|Take 001|BaseLayer.026
+  - first:
+      74: -3760344540961530085
+    second: FF20.002|FF08|Take 001|BaseLayer.027
+  - first:
+      74: -3450696621977864392
+    second: FF20.002|FF08|Take 001|BaseLayer.028
+  - first:
+      74: -7916628275318747188
+    second: FF20.002|FF08|Take 001|BaseLayer.029
+  - first:
+      74: -986085650545409403
+    second: FF20.002|FF08|Take 001|BaseLayer.030
+  - first:
+      74: -6905579628971119466
+    second: FF20.002|FF08|Take 001|BaseLayer.031
+  - first:
+      74: 5295466055612726210
+    second: FF20.002|FF08|Take 001|BaseLayer.032
+  - first:
+      74: -8024970137016197530
+    second: FF20.002|FF20|Take 001|BaseLayer.001
+  - first:
+      74: -3153805338522290054
+    second: FF20.002|FF20|Take 001|BaseLayer.002
+  - first:
+      74: -3292847649773541871
+    second: FF20.002|FF20|Take 001|BaseLayer.003
+  - first:
+      74: 60818582025446179
+    second: FF20.002|FF22|Take 001|BaseLayer.002
+  - first:
+      74: 508891439933057366
+    second: FF20.002|Shader NodetreeAction.004
+  - first:
+      74: -6901438067482029904
+    second: FF20.002|Shader NodetreeAction.007
+  - first:
+      74: -560760178206923317
+    second: FF20.002|Shader NodetreeAction.012
+  - first:
+      74: 7190697615078945136
+    second: FF20.002|Shader NodetreeAction.015
+  - first:
+      74: -1457022835700723487
+    second: FF20.002|Shader NodetreeAction.017
+  - first:
+      74: -7282582725833304931
+    second: FF20.002|Shader NodetreeAction.021
+  - first:
+      74: 5422238003028957817
+    second: FF20.002|Shader NodetreeAction.022
+  - first:
+      74: -8891503585058071859
+    second: FF20.001|FF01|Take 001|BaseLayer.001
+  - first:
+      74: 3681521669165518172
+    second: FF20.001|FF01|Take 001|BaseLayer.003
+  - first:
+      74: -7433542508020377417
+    second: FF20.001|FF08|Take 001|BaseLayer.011
+  - first:
+      74: 2314840604425411069
+    second: FF20.001|FF08|Take 001|BaseLayer.012
+  - first:
+      74: -7603570378484160642
+    second: FF20.001|FF08|Take 001|BaseLayer.013
+  - first:
+      74: -8959496780190645026
+    second: FF20.001|FF08|Take 001|BaseLayer.014
+  - first:
+      74: -6581499189827671859
+    second: FF20.001|FF08|Take 001|BaseLayer.016
+  - first:
+      74: 5274527534340426001
+    second: FF20.001|FF08|Take 001|BaseLayer.017
+  - first:
+      74: 4680999791984605584
+    second: FF20.001|FF08|Take 001|BaseLayer.018
+  - first:
+      74: -1329941945765172786
+    second: FF20.001|FF08|Take 001|BaseLayer.019
+  - first:
+      74: -1533975274097228301
+    second: FF20.001|FF08|Take 001|BaseLayer.020
+  - first:
+      74: -5468844209918194464
+    second: FF20.001|FF08|Take 001|BaseLayer.021
+  - first:
+      74: 652491154595286377
+    second: FF20.001|FF08|Take 001|BaseLayer.022
+  - first:
+      74: 4726856700083615704
+    second: FF20.001|FF08|Take 001|BaseLayer.023
+  - first:
+      74: 1249999357719651265
+    second: FF20.001|FF08|Take 001|BaseLayer.024
+  - first:
+      74: -6317809151820883166
+    second: FF20.001|FF08|Take 001|BaseLayer.025
+  - first:
+      74: 4068182296133966746
+    second: FF20.001|FF08|Take 001|BaseLayer.026
+  - first:
+      74: -2829276494400300447
+    second: FF20.001|FF08|Take 001|BaseLayer.027
+  - first:
+      74: 5182016042842406206
+    second: FF20.001|FF08|Take 001|BaseLayer.028
+  - first:
+      74: 8678241274336610019
+    second: FF20.001|FF08|Take 001|BaseLayer.029
+  - first:
+      74: 7395893165910984836
+    second: FF20.001|FF08|Take 001|BaseLayer.030
+  - first:
+      74: -9184378106716428060
+    second: FF20.001|FF08|Take 001|BaseLayer.031
+  - first:
+      74: 252887401715415133
+    second: FF20.001|FF08|Take 001|BaseLayer.032
+  - first:
+      74: -5158341703400851852
+    second: FF20.001|FF20|Take 001|BaseLayer.001
+  - first:
+      74: 3334519487156736704
+    second: FF20.001|FF20|Take 001|BaseLayer.002
+  - first:
+      74: 3558563873427485764
+    second: FF20.001|FF20|Take 001|BaseLayer.003
+  - first:
+      74: 2144144516155526015
+    second: FF20.001|FF22|Take 001|BaseLayer.002
+  - first:
+      74: -3299627024782167985
+    second: FF20.001|Shader NodetreeAction.004
+  - first:
+      74: -5838180972693965164
+    second: FF20.001|Shader NodetreeAction.007
+  - first:
+      74: -5550950820397367484
+    second: FF20.001|Shader NodetreeAction.012
+  - first:
+      74: 1164926688043705203
+    second: FF20.001|Shader NodetreeAction.015
+  - first:
+      74: -7524235213977791711
+    second: FF20.001|Shader NodetreeAction.017
+  - first:
+      74: 1270621212601545673
+    second: FF20.001|Shader NodetreeAction.021
+  - first:
+      74: -3332364929707162230
+    second: FF20.001|Shader NodetreeAction.022
+  - first:
+      74: 720471449433709636
+    second: FF08.020|FF01|Take 001|BaseLayer.001
+  - first:
+      74: 131908856539135845
+    second: FF08.020|FF01|Take 001|BaseLayer.003
+  - first:
+      74: 6058867106559155705
+    second: FF08.020|FF08|Take 001|BaseLayer.011
+  - first:
+      74: 3519808415181923424
+    second: FF08.020|FF08|Take 001|BaseLayer.012
+  - first:
+      74: 4965725326851141351
+    second: FF08.020|FF08|Take 001|BaseLayer.013
+  - first:
+      74: -8308763675568627778
+    second: FF08.020|FF08|Take 001|BaseLayer.014
+  - first:
+      74: -2363355654686330992
+    second: FF08.020|FF08|Take 001|BaseLayer.016
+  - first:
+      74: 3991485949734288684
+    second: FF08.020|FF08|Take 001|BaseLayer.017
+  - first:
+      74: -3275403778344969376
+    second: FF08.020|FF08|Take 001|BaseLayer.018
+  - first:
+      74: 1655521036558698224
+    second: FF08.020|FF08|Take 001|BaseLayer.019
+  - first:
+      74: -5307289190850892737
+    second: FF08.020|FF08|Take 001|BaseLayer.020
+  - first:
+      74: -6694436693378542179
+    second: FF08.020|FF08|Take 001|BaseLayer.021
+  - first:
+      74: 1500539832706941785
+    second: FF08.020|FF08|Take 001|BaseLayer.022
+  - first:
+      74: 5069202564901722992
+    second: FF08.020|FF08|Take 001|BaseLayer.023
+  - first:
+      74: -710637802622404716
+    second: FF08.020|FF08|Take 001|BaseLayer.024
+  - first:
+      74: -2426416078660251593
+    second: FF08.020|FF08|Take 001|BaseLayer.025
+  - first:
+      74: 473682862626513376
+    second: FF08.020|FF08|Take 001|BaseLayer.026
+  - first:
+      74: -3085475253634925307
+    second: FF08.020|FF08|Take 001|BaseLayer.027
+  - first:
+      74: 5966903258936758983
+    second: FF08.020|FF08|Take 001|BaseLayer.028
+  - first:
+      74: 7929885199455827697
+    second: FF08.020|FF08|Take 001|BaseLayer.029
+  - first:
+      74: -4135377323385518074
+    second: FF08.020|FF08|Take 001|BaseLayer.030
+  - first:
+      74: 1390192057828125879
+    second: FF08.020|FF08|Take 001|BaseLayer.031
+  - first:
+      74: -1816168830343620917
+    second: FF08.020|FF08|Take 001|BaseLayer.032
+  - first:
+      74: 2623902382180575346
+    second: FF08.020|FF20|Take 001|BaseLayer.001
+  - first:
+      74: 7045035468143898548
+    second: FF08.020|FF20|Take 001|BaseLayer.002
+  - first:
+      74: 5069191870871345926
+    second: FF08.020|FF20|Take 001|BaseLayer.003
+  - first:
+      74: 1543316090980887230
+    second: FF08.020|FF22|Take 001|BaseLayer.002
+  - first:
+      74: -2778949800803075502
+    second: FF08.020|Shader NodetreeAction.004
+  - first:
+      74: 6836640878850493363
+    second: FF08.020|Shader NodetreeAction.007
+  - first:
+      74: -5184854331050139043
+    second: FF08.020|Shader NodetreeAction.012
+  - first:
+      74: 3679942709311775861
+    second: FF08.020|Shader NodetreeAction.015
+  - first:
+      74: -6715963799361627190
+    second: FF08.020|Shader NodetreeAction.017
+  - first:
+      74: -483024370232130499
+    second: FF08.020|Shader NodetreeAction.021
+  - first:
+      74: 1197342910990749148
+    second: FF08.020|Shader NodetreeAction.022
+  - first:
+      74: 8964569663450369716
+    second: FF08.019|FF01|Take 001|BaseLayer.001
+  - first:
+      74: -3944296402895032374
+    second: FF08.019|FF01|Take 001|BaseLayer.003
+  - first:
+      74: -9000620718434124193
+    second: FF08.019|FF08|Take 001|BaseLayer.011
+  - first:
+      74: -6234602363023855920
+    second: FF08.019|FF08|Take 001|BaseLayer.012
+  - first:
+      74: 6995865470919839206
+    second: FF08.019|FF08|Take 001|BaseLayer.013
+  - first:
+      74: -8657083845610871203
+    second: FF08.019|FF08|Take 001|BaseLayer.014
+  - first:
+      74: -4580762569216879588
+    second: FF08.019|FF08|Take 001|BaseLayer.016
+  - first:
+      74: -8699670688270541194
+    second: FF08.019|FF08|Take 001|BaseLayer.017
+  - first:
+      74: -6219616961063566285
+    second: FF08.019|FF08|Take 001|BaseLayer.018
+  - first:
+      74: -2233531793856667800
+    second: FF08.019|FF08|Take 001|BaseLayer.019
+  - first:
+      74: -1614668932182653451
+    second: FF08.019|FF08|Take 001|BaseLayer.020
+  - first:
+      74: 2348844186361418444
+    second: FF08.019|FF08|Take 001|BaseLayer.021
+  - first:
+      74: 6689363725403948454
+    second: FF08.019|FF08|Take 001|BaseLayer.022
+  - first:
+      74: -8749781951915148921
+    second: FF08.019|FF08|Take 001|BaseLayer.023
+  - first:
+      74: -281880401427163252
+    second: FF08.019|FF08|Take 001|BaseLayer.024
+  - first:
+      74: -7379369171426995445
+    second: FF08.019|FF08|Take 001|BaseLayer.025
+  - first:
+      74: -8126023229268993151
+    second: FF08.019|FF08|Take 001|BaseLayer.026
+  - first:
+      74: 120797060783086076
+    second: FF08.019|FF08|Take 001|BaseLayer.027
+  - first:
+      74: 6454681409633326293
+    second: FF08.019|FF08|Take 001|BaseLayer.028
+  - first:
+      74: 184499435491969855
+    second: FF08.019|FF08|Take 001|BaseLayer.029
+  - first:
+      74: -3830627837160894034
+    second: FF08.019|FF08|Take 001|BaseLayer.030
+  - first:
+      74: 2153385491050577675
+    second: FF08.019|FF08|Take 001|BaseLayer.031
+  - first:
+      74: 4093132437513399589
+    second: FF08.019|FF08|Take 001|BaseLayer.032
+  - first:
+      74: 962243007678913761
+    second: FF08.019|FF20|Take 001|BaseLayer.001
+  - first:
+      74: -4779087312244451894
+    second: FF08.019|FF20|Take 001|BaseLayer.002
+  - first:
+      74: 6933316478304965651
+    second: FF08.019|FF20|Take 001|BaseLayer.003
+  - first:
+      74: -6051406153249583610
+    second: FF08.019|FF22|Take 001|BaseLayer.002
+  - first:
+      74: -7355665535724436702
+    second: FF08.019|Shader NodetreeAction.004
+  - first:
+      74: -5655240099805703948
+    second: FF08.019|Shader NodetreeAction.007
+  - first:
+      74: 5348076985047411900
+    second: FF08.019|Shader NodetreeAction.012
+  - first:
+      74: -8578870081580993013
+    second: FF08.019|Shader NodetreeAction.015
+  - first:
+      74: -6843625830726617077
+    second: FF08.019|Shader NodetreeAction.017
+  - first:
+      74: -7988120133678444858
+    second: FF08.019|Shader NodetreeAction.021
+  - first:
+      74: 5497135056148545743
+    second: FF08.019|Shader NodetreeAction.022
+  - first:
+      74: -1587064917270643485
+    second: FF08.018|FF01|Take 001|BaseLayer.001
+  - first:
+      74: 8437581117521062751
+    second: FF08.018|FF01|Take 001|BaseLayer.003
+  - first:
+      74: -5730601222767882077
+    second: FF08.018|FF08|Take 001|BaseLayer.011
+  - first:
+      74: 7121288861444824994
+    second: FF08.018|FF08|Take 001|BaseLayer.012
+  - first:
+      74: -7134679270747779259
+    second: FF08.018|FF08|Take 001|BaseLayer.013
+  - first:
+      74: -9080538903525167290
+    second: FF08.018|FF08|Take 001|BaseLayer.014
+  - first:
+      74: 4010262913562180089
+    second: FF08.018|FF08|Take 001|BaseLayer.016
+  - first:
+      74: 715590744718135313
+    second: FF08.018|FF08|Take 001|BaseLayer.017
+  - first:
+      74: -8909864837911786764
+    second: FF08.018|FF08|Take 001|BaseLayer.018
+  - first:
+      74: 8425389075345485642
+    second: FF08.018|FF08|Take 001|BaseLayer.019
+  - first:
+      74: 4705291418859004800
+    second: FF08.018|FF08|Take 001|BaseLayer.020
+  - first:
+      74: -3008632871908564153
+    second: FF08.018|FF08|Take 001|BaseLayer.021
+  - first:
+      74: 4606825583362791258
+    second: FF08.018|FF08|Take 001|BaseLayer.022
+  - first:
+      74: 142068091832482241
+    second: FF08.018|FF08|Take 001|BaseLayer.023
+  - first:
+      74: -485794844915893504
+    second: FF08.018|FF08|Take 001|BaseLayer.024
+  - first:
+      74: -5666610338517583574
+    second: FF08.018|FF08|Take 001|BaseLayer.025
+  - first:
+      74: -1890081403425104506
+    second: FF08.018|FF08|Take 001|BaseLayer.026
+  - first:
+      74: 4848879174331547593
+    second: FF08.018|FF08|Take 001|BaseLayer.027
+  - first:
+      74: 3086714392910179820
+    second: FF08.018|FF08|Take 001|BaseLayer.028
+  - first:
+      74: -3356690128593976225
+    second: FF08.018|FF08|Take 001|BaseLayer.029
+  - first:
+      74: 2121403253357162236
+    second: FF08.018|FF08|Take 001|BaseLayer.030
+  - first:
+      74: -2057039986456647480
+    second: FF08.018|FF08|Take 001|BaseLayer.031
+  - first:
+      74: 6369043685783709598
+    second: FF08.018|FF08|Take 001|BaseLayer.032
+  - first:
+      74: -3106896785727319251
+    second: FF08.018|FF20|Take 001|BaseLayer.001
+  - first:
+      74: -3131151736150277597
+    second: FF08.018|FF20|Take 001|BaseLayer.002
+  - first:
+      74: 2173801381427694416
+    second: FF08.018|FF20|Take 001|BaseLayer.003
+  - first:
+      74: 726107658105509607
+    second: FF08.018|FF22|Take 001|BaseLayer.002
+  - first:
+      74: 3159969825992597220
+    second: FF08.018|Shader NodetreeAction.004
+  - first:
+      74: 7654951795189398042
+    second: FF08.018|Shader NodetreeAction.007
+  - first:
+      74: 2830656361811012688
+    second: FF08.018|Shader NodetreeAction.012
+  - first:
+      74: 2003866401598386941
+    second: FF08.018|Shader NodetreeAction.015
+  - first:
+      74: -2008073371252495667
+    second: FF08.018|Shader NodetreeAction.017
+  - first:
+      74: 3591934283530709396
+    second: FF08.018|Shader NodetreeAction.021
+  - first:
+      74: -4538237043111490108
+    second: FF08.018|Shader NodetreeAction.022
+  - first:
+      74: -5165203774030633593
+    second: FF08.017|FF01|Take 001|BaseLayer.001
+  - first:
+      74: 8150990121192355191
+    second: FF08.017|FF01|Take 001|BaseLayer.003
+  - first:
+      74: 6441887670460552430
+    second: FF08.017|FF08|Take 001|BaseLayer.011
+  - first:
+      74: 3440189648629724560
+    second: FF08.017|FF08|Take 001|BaseLayer.012
+  - first:
+      74: 5121995624512492776
+    second: FF08.017|FF08|Take 001|BaseLayer.013
+  - first:
+      74: -2795205354234384074
+    second: FF08.017|FF08|Take 001|BaseLayer.014
+  - first:
+      74: 8236777195235149303
+    second: FF08.017|FF08|Take 001|BaseLayer.016
+  - first:
+      74: 2446259395246506025
+    second: FF08.017|FF08|Take 001|BaseLayer.017
+  - first:
+      74: 6693858627802642792
+    second: FF08.017|FF08|Take 001|BaseLayer.018
+  - first:
+      74: 7453668006564885993
+    second: FF08.017|FF08|Take 001|BaseLayer.019
+  - first:
+      74: -4063897775414032766
+    second: FF08.017|FF08|Take 001|BaseLayer.020
+  - first:
+      74: -265739090472223920
+    second: FF08.017|FF08|Take 001|BaseLayer.021
+  - first:
+      74: 6843558489381229914
+    second: FF08.017|FF08|Take 001|BaseLayer.022
+  - first:
+      74: -3459736487198540182
+    second: FF08.017|FF08|Take 001|BaseLayer.023
+  - first:
+      74: -2572232901026630691
+    second: FF08.017|FF08|Take 001|BaseLayer.024
+  - first:
+      74: 1385412347483731932
+    second: FF08.017|FF08|Take 001|BaseLayer.025
+  - first:
+      74: -2533653823999177471
+    second: FF08.017|FF08|Take 001|BaseLayer.026
+  - first:
+      74: -7110057553998177391
+    second: FF08.017|FF08|Take 001|BaseLayer.027
+  - first:
+      74: 6651951515600236906
+    second: FF08.017|FF08|Take 001|BaseLayer.028
+  - first:
+      74: -6756343278904549295
+    second: FF08.017|FF08|Take 001|BaseLayer.029
+  - first:
+      74: 3538779222435198751
+    second: FF08.017|FF08|Take 001|BaseLayer.030
+  - first:
+      74: -2250380167216419089
+    second: FF08.017|FF08|Take 001|BaseLayer.031
+  - first:
+      74: 7581329560861291266
+    second: FF08.017|FF08|Take 001|BaseLayer.032
+  - first:
+      74: 6878456701585722132
+    second: FF08.017|FF20|Take 001|BaseLayer.001
+  - first:
+      74: -6061890969990937939
+    second: FF08.017|FF20|Take 001|BaseLayer.002
+  - first:
+      74: -5016841975687230490
+    second: FF08.017|FF20|Take 001|BaseLayer.003
+  - first:
+      74: 6729263319365745818
+    second: FF08.017|FF22|Take 001|BaseLayer.002
+  - first:
+      74: -8639914245503885985
+    second: FF08.017|Shader NodetreeAction.004
+  - first:
+      74: -1128661884169399102
+    second: FF08.017|Shader NodetreeAction.007
+  - first:
+      74: 2051217990304085903
+    second: FF08.017|Shader NodetreeAction.012
+  - first:
+      74: -5498445676943280596
+    second: FF08.017|Shader NodetreeAction.015
+  - first:
+      74: -7526272483443577851
+    second: FF08.017|Shader NodetreeAction.017
+  - first:
+      74: 2557096534867920365
+    second: FF08.017|Shader NodetreeAction.021
+  - first:
+      74: -4837657346552396965
+    second: FF08.017|Shader NodetreeAction.022
+  - first:
+      74: -7949686650978596625
+    second: FF08.016|FF01|Take 001|BaseLayer.001
+  - first:
+      74: -4290193255760688371
+    second: FF08.016|FF01|Take 001|BaseLayer.003
+  - first:
+      74: 2952280974567880255
+    second: FF08.016|FF08|Take 001|BaseLayer.011
+  - first:
+      74: -1723062919724853722
+    second: FF08.016|FF08|Take 001|BaseLayer.012
+  - first:
+      74: 2341715815393142043
+    second: FF08.016|FF08|Take 001|BaseLayer.013
+  - first:
+      74: 6426773437652344562
+    second: FF08.016|FF08|Take 001|BaseLayer.014
+  - first:
+      74: 4474912232819253423
+    second: FF08.016|FF08|Take 001|BaseLayer.016
+  - first:
+      74: 8521499810154155765
+    second: FF08.016|FF08|Take 001|BaseLayer.017
+  - first:
+      74: 6468674245062801041
+    second: FF08.016|FF08|Take 001|BaseLayer.018
+  - first:
+      74: -7888830351257549994
+    second: FF08.016|FF08|Take 001|BaseLayer.019
+  - first:
+      74: 7837798789797443391
+    second: FF08.016|FF08|Take 001|BaseLayer.020
+  - first:
+      74: 2643756379427895440
+    second: FF08.016|FF08|Take 001|BaseLayer.021
+  - first:
+      74: 1474282382778711002
+    second: FF08.016|FF08|Take 001|BaseLayer.022
+  - first:
+      74: 6174765290008677746
+    second: FF08.016|FF08|Take 001|BaseLayer.023
+  - first:
+      74: 6615449421244145466
+    second: FF08.016|FF08|Take 001|BaseLayer.024
+  - first:
+      74: -3154691792970805562
+    second: FF08.016|FF08|Take 001|BaseLayer.025
+  - first:
+      74: -6727670662959619280
+    second: FF08.016|FF08|Take 001|BaseLayer.026
+  - first:
+      74: 7554283600580809037
+    second: FF08.016|FF08|Take 001|BaseLayer.027
+  - first:
+      74: -1283794800180285906
+    second: FF08.016|FF08|Take 001|BaseLayer.028
+  - first:
+      74: -2814413774349869557
+    second: FF08.016|FF08|Take 001|BaseLayer.029
+  - first:
+      74: 6089934104488333374
+    second: FF08.016|FF08|Take 001|BaseLayer.030
+  - first:
+      74: 5307463751019592062
+    second: FF08.016|FF08|Take 001|BaseLayer.031
+  - first:
+      74: -1935807386159410979
+    second: FF08.016|FF08|Take 001|BaseLayer.032
+  - first:
+      74: -5318422887589074100
+    second: FF08.016|FF20|Take 001|BaseLayer.001
+  - first:
+      74: -8467075492723486123
+    second: FF08.016|FF20|Take 001|BaseLayer.002
+  - first:
+      74: -3977966347326337759
+    second: FF08.016|FF20|Take 001|BaseLayer.003
+  - first:
+      74: 4734942789394710141
+    second: FF08.016|FF22|Take 001|BaseLayer.002
+  - first:
+      74: 6282870478090801589
+    second: FF08.016|Shader NodetreeAction.004
+  - first:
+      74: 3969292807367098526
+    second: FF08.016|Shader NodetreeAction.007
+  - first:
+      74: 6367873963413057402
+    second: FF08.016|Shader NodetreeAction.012
+  - first:
+      74: 7580177220932832451
+    second: FF08.016|Shader NodetreeAction.015
+  - first:
+      74: -6559655015838202227
+    second: FF08.016|Shader NodetreeAction.017
+  - first:
+      74: 5545905178389125622
+    second: FF08.016|Shader NodetreeAction.021
+  - first:
+      74: -606336232787865339
+    second: FF08.016|Shader NodetreeAction.022
+  - first:
+      74: 8241175724283552123
+    second: FF08.015|FF01|Take 001|BaseLayer.001
+  - first:
+      74: 8281344549078103381
+    second: FF08.015|FF01|Take 001|BaseLayer.003
+  - first:
+      74: 6019429964214166862
+    second: FF08.015|FF08|Take 001|BaseLayer.011
+  - first:
+      74: -6303895174157713026
+    second: FF08.015|FF08|Take 001|BaseLayer.012
+  - first:
+      74: 9011604201278673036
+    second: FF08.015|FF08|Take 001|BaseLayer.013
+  - first:
+      74: -99403622376985463
+    second: FF08.015|FF08|Take 001|BaseLayer.014
+  - first:
+      74: 2929353850777708651
+    second: FF08.015|FF08|Take 001|BaseLayer.016
+  - first:
+      74: -314882800212671841
+    second: FF08.015|FF08|Take 001|BaseLayer.017
+  - first:
+      74: 6650644460802341094
+    second: FF08.015|FF08|Take 001|BaseLayer.018
+  - first:
+      74: -5464776583312926956
+    second: FF08.015|FF08|Take 001|BaseLayer.019
+  - first:
+      74: -3085470255305715124
+    second: FF08.015|FF08|Take 001|BaseLayer.020
+  - first:
+      74: 7604234213410303731
+    second: FF08.015|FF08|Take 001|BaseLayer.021
+  - first:
+      74: -6783085164638387807
+    second: FF08.015|FF08|Take 001|BaseLayer.022
+  - first:
+      74: -4453471008820179268
+    second: FF08.015|FF08|Take 001|BaseLayer.023
+  - first:
+      74: 5974699724297743791
+    second: FF08.015|FF08|Take 001|BaseLayer.024
+  - first:
+      74: 9109295691300985926
+    second: FF08.015|FF08|Take 001|BaseLayer.025
+  - first:
+      74: -4907947368919306572
+    second: FF08.015|FF08|Take 001|BaseLayer.026
+  - first:
+      74: -808627883859335793
+    second: FF08.015|FF08|Take 001|BaseLayer.027
+  - first:
+      74: -8793332452245762278
+    second: FF08.015|FF08|Take 001|BaseLayer.028
+  - first:
+      74: -1694031917560127414
+    second: FF08.015|FF08|Take 001|BaseLayer.029
+  - first:
+      74: 7377898540185654175
+    second: FF08.015|FF08|Take 001|BaseLayer.030
+  - first:
+      74: -8569784528374004365
+    second: FF08.015|FF08|Take 001|BaseLayer.031
+  - first:
+      74: -8858676120467459975
+    second: FF08.015|FF08|Take 001|BaseLayer.032
+  - first:
+      74: 1776664738327934009
+    second: FF08.015|FF20|Take 001|BaseLayer.001
+  - first:
+      74: 8490262748056750673
+    second: FF08.015|FF20|Take 001|BaseLayer.002
+  - first:
+      74: 5806485595801882891
+    second: FF08.015|FF20|Take 001|BaseLayer.003
+  - first:
+      74: -6215674441802584866
+    second: FF08.015|FF22|Take 001|BaseLayer.002
+  - first:
+      74: -117425749740216315
+    second: FF08.015|Shader NodetreeAction.004
+  - first:
+      74: 1338075834868208703
+    second: FF08.015|Shader NodetreeAction.007
+  - first:
+      74: -7691859008434365367
+    second: FF08.015|Shader NodetreeAction.012
+  - first:
+      74: -6975008258604682869
+    second: FF08.015|Shader NodetreeAction.015
+  - first:
+      74: 3567455726869782224
+    second: FF08.015|Shader NodetreeAction.017
+  - first:
+      74: -7138625921463614599
+    second: FF08.015|Shader NodetreeAction.021
+  - first:
+      74: -5091920277219173798
+    second: FF08.015|Shader NodetreeAction.022
+  - first:
+      74: 6290282334638180020
+    second: FF08.014|FF01|Take 001|BaseLayer.001
+  - first:
+      74: -8303470129131488801
+    second: FF08.014|FF01|Take 001|BaseLayer.003
+  - first:
+      74: 1936817451354378691
+    second: FF08.014|FF08|Take 001|BaseLayer.011
+  - first:
+      74: -6700740753230510956
+    second: FF08.014|FF08|Take 001|BaseLayer.012
+  - first:
+      74: 4781997944280454096
+    second: FF08.014|FF08|Take 001|BaseLayer.013
+  - first:
+      74: -4589438357915690966
+    second: FF08.014|FF08|Take 001|BaseLayer.014
+  - first:
+      74: -9037243633736645255
+    second: FF08.014|FF08|Take 001|BaseLayer.016
+  - first:
+      74: 6542695920584308088
+    second: FF08.014|FF08|Take 001|BaseLayer.017
+  - first:
+      74: 2311589146904045612
+    second: FF08.014|FF08|Take 001|BaseLayer.018
+  - first:
+      74: -5492179745157409062
+    second: FF08.014|FF08|Take 001|BaseLayer.019
+  - first:
+      74: 3099460906509071477
+    second: FF08.014|FF08|Take 001|BaseLayer.020
+  - first:
+      74: 86153423704732518
+    second: FF08.014|FF08|Take 001|BaseLayer.021
+  - first:
+      74: 7522145822751687137
+    second: FF08.014|FF08|Take 001|BaseLayer.022
+  - first:
+      74: -610141401267717249
+    second: FF08.014|FF08|Take 001|BaseLayer.023
+  - first:
+      74: -159174180003198288
+    second: FF08.014|FF08|Take 001|BaseLayer.024
+  - first:
+      74: 5237879371650271148
+    second: FF08.014|FF08|Take 001|BaseLayer.025
+  - first:
+      74: 813389793455238824
+    second: FF08.014|FF08|Take 001|BaseLayer.026
+  - first:
+      74: -4360607902560159774
+    second: FF08.014|FF08|Take 001|BaseLayer.027
+  - first:
+      74: -4344203960577749729
+    second: FF08.014|FF08|Take 001|BaseLayer.028
+  - first:
+      74: 6639692295715496896
+    second: FF08.014|FF08|Take 001|BaseLayer.029
+  - first:
+      74: -8688750162977791337
+    second: FF08.014|FF08|Take 001|BaseLayer.030
+  - first:
+      74: 5613056730024299737
+    second: FF08.014|FF08|Take 001|BaseLayer.031
+  - first:
+      74: -7824640499612886909
+    second: FF08.014|FF08|Take 001|BaseLayer.032
+  - first:
+      74: 2827721841479814313
+    second: FF08.014|FF20|Take 001|BaseLayer.001
+  - first:
+      74: 2623626962388919009
+    second: FF08.014|FF20|Take 001|BaseLayer.002
+  - first:
+      74: 7807657412822443711
+    second: FF08.014|FF20|Take 001|BaseLayer.003
+  - first:
+      74: 8076537385504074625
+    second: FF08.014|FF22|Take 001|BaseLayer.002
+  - first:
+      74: -9114885851864430017
+    second: FF08.014|Shader NodetreeAction.004
+  - first:
+      74: 8487358036249039408
+    second: FF08.014|Shader NodetreeAction.007
+  - first:
+      74: -8924251071890878309
+    second: FF08.014|Shader NodetreeAction.012
+  - first:
+      74: 194507022177719564
+    second: FF08.014|Shader NodetreeAction.015
+  - first:
+      74: 5862414224195396636
+    second: FF08.014|Shader NodetreeAction.017
+  - first:
+      74: 196299010109378954
+    second: FF08.014|Shader NodetreeAction.021
+  - first:
+      74: 6086424220601076659
+    second: FF08.014|Shader NodetreeAction.022
+  - first:
+      74: -3015577161740684279
+    second: FF08.013|FF01|Take 001|BaseLayer.001
+  - first:
+      74: 7412611421824577517
+    second: FF08.013|FF01|Take 001|BaseLayer.003
+  - first:
+      74: -6040358990495186951
+    second: FF08.013|FF08|Take 001|BaseLayer.011
+  - first:
+      74: 3736743683333969498
+    second: FF08.013|FF08|Take 001|BaseLayer.012
+  - first:
+      74: 2867045015951960447
+    second: FF08.013|FF08|Take 001|BaseLayer.013
+  - first:
+      74: -7500722977932059742
+    second: FF08.013|FF08|Take 001|BaseLayer.014
+  - first:
+      74: -5216084306527942737
+    second: FF08.013|FF08|Take 001|BaseLayer.016
+  - first:
+      74: 3794358232893737768
+    second: FF08.013|FF08|Take 001|BaseLayer.017
+  - first:
+      74: -5981681364921499326
+    second: FF08.013|FF08|Take 001|BaseLayer.018
+  - first:
+      74: -558431724801521634
+    second: FF08.013|FF08|Take 001|BaseLayer.019
+  - first:
+      74: 5724763635105802756
+    second: FF08.013|FF08|Take 001|BaseLayer.020
+  - first:
+      74: 4611187456222832397
+    second: FF08.013|FF08|Take 001|BaseLayer.021
+  - first:
+      74: -5597439833845755865
+    second: FF08.013|FF08|Take 001|BaseLayer.022
+  - first:
+      74: 339412816823202023
+    second: FF08.013|FF08|Take 001|BaseLayer.023
+  - first:
+      74: 2792893039002092570
+    second: FF08.013|FF08|Take 001|BaseLayer.024
+  - first:
+      74: -8818829250375360187
+    second: FF08.013|FF08|Take 001|BaseLayer.025
+  - first:
+      74: -3813392560078115234
+    second: FF08.013|FF08|Take 001|BaseLayer.026
+  - first:
+      74: 851571827666677946
+    second: FF08.013|FF08|Take 001|BaseLayer.027
+  - first:
+      74: -6061253272398960294
+    second: FF08.013|FF08|Take 001|BaseLayer.028
+  - first:
+      74: 1176669911376667958
+    second: FF08.013|FF08|Take 001|BaseLayer.029
+  - first:
+      74: -1266497442260395228
+    second: FF08.013|FF08|Take 001|BaseLayer.030
+  - first:
+      74: -4554717983117753724
+    second: FF08.013|FF08|Take 001|BaseLayer.031
+  - first:
+      74: 7460155893637731876
+    second: FF08.013|FF08|Take 001|BaseLayer.032
+  - first:
+      74: -2222937939163298738
+    second: FF08.013|FF20|Take 001|BaseLayer.001
+  - first:
+      74: 7699808526432343506
+    second: FF08.013|FF20|Take 001|BaseLayer.002
+  - first:
+      74: 507204999337341223
+    second: FF08.013|FF20|Take 001|BaseLayer.003
+  - first:
+      74: 2921808022585731256
+    second: FF08.013|FF22|Take 001|BaseLayer.002
+  - first:
+      74: -5585495763296362446
+    second: FF08.013|Shader NodetreeAction.004
+  - first:
+      74: 2691026950688488246
+    second: FF08.013|Shader NodetreeAction.007
+  - first:
+      74: -8782918792083950452
+    second: FF08.013|Shader NodetreeAction.012
+  - first:
+      74: -293623638478745209
+    second: FF08.013|Shader NodetreeAction.015
+  - first:
+      74: -8042898066909055413
+    second: FF08.013|Shader NodetreeAction.017
+  - first:
+      74: -7927249696468914171
+    second: FF08.013|Shader NodetreeAction.021
+  - first:
+      74: 944173921702486555
+    second: FF08.013|Shader NodetreeAction.022
+  - first:
+      74: -867494817423853387
+    second: FF08.011|FF01|Take 001|BaseLayer.001
+  - first:
+      74: -8745976410760063285
+    second: FF08.011|FF01|Take 001|BaseLayer.003
+  - first:
+      74: 9130954521586089666
+    second: FF08.011|FF08|Take 001|BaseLayer.011
+  - first:
+      74: 5357805867069801302
+    second: FF08.011|FF08|Take 001|BaseLayer.012
+  - first:
+      74: 3026073793524648025
+    second: FF08.011|FF08|Take 001|BaseLayer.013
+  - first:
+      74: -1773715228391739906
+    second: FF08.011|FF08|Take 001|BaseLayer.014
+  - first:
+      74: 4521987265998831450
+    second: FF08.011|FF08|Take 001|BaseLayer.016
+  - first:
+      74: -6931452833517105297
+    second: FF08.011|FF08|Take 001|BaseLayer.017
+  - first:
+      74: 3454047770583435081
+    second: FF08.011|FF08|Take 001|BaseLayer.018
+  - first:
+      74: -2088408529149791050
+    second: FF08.011|FF08|Take 001|BaseLayer.019
+  - first:
+      74: -1627669479264995512
+    second: FF08.011|FF08|Take 001|BaseLayer.020
+  - first:
+      74: 3773681647698702337
+    second: FF08.011|FF08|Take 001|BaseLayer.021
+  - first:
+      74: -4283244813623902081
+    second: FF08.011|FF08|Take 001|BaseLayer.022
+  - first:
+      74: -1659844470208448196
+    second: FF08.011|FF08|Take 001|BaseLayer.023
+  - first:
+      74: -972995889194280975
+    second: FF08.011|FF08|Take 001|BaseLayer.024
+  - first:
+      74: -7930552538642119176
+    second: FF08.011|FF08|Take 001|BaseLayer.025
+  - first:
+      74: -5064374857783581461
+    second: FF08.011|FF08|Take 001|BaseLayer.026
+  - first:
+      74: 8634292301442439282
+    second: FF08.011|FF08|Take 001|BaseLayer.027
+  - first:
+      74: 7906494238445960187
+    second: FF08.011|FF08|Take 001|BaseLayer.028
+  - first:
+      74: 647930225161432479
+    second: FF08.011|FF08|Take 001|BaseLayer.029
+  - first:
+      74: -4603352557323943879
+    second: FF08.011|FF08|Take 001|BaseLayer.030
+  - first:
+      74: -740004525509304650
+    second: FF08.011|FF08|Take 001|BaseLayer.031
+  - first:
+      74: 7925279438239486795
+    second: FF08.011|FF08|Take 001|BaseLayer.032
+  - first:
+      74: 8292678874185129986
+    second: FF08.011|FF20|Take 001|BaseLayer.001
+  - first:
+      74: 6084957276448414771
+    second: FF08.011|FF20|Take 001|BaseLayer.002
+  - first:
+      74: -2827714669250432169
+    second: FF08.011|FF20|Take 001|BaseLayer.003
+  - first:
+      74: -691477945785122476
+    second: FF08.011|FF22|Take 001|BaseLayer.002
+  - first:
+      74: 6072183350655810563
+    second: FF08.011|Shader NodetreeAction.004
+  - first:
+      74: -7343998005464534874
+    second: FF08.011|Shader NodetreeAction.007
+  - first:
+      74: -5755723799069322865
+    second: FF08.011|Shader NodetreeAction.012
+  - first:
+      74: -3409680817561809132
+    second: FF08.011|Shader NodetreeAction.015
+  - first:
+      74: 664158902082960713
+    second: FF08.011|Shader NodetreeAction.017
+  - first:
+      74: -4295882830927688965
+    second: FF08.011|Shader NodetreeAction.021
+  - first:
+      74: 4251022493488623727
+    second: FF08.011|Shader NodetreeAction.022
+  - first:
+      74: 2331088056231928866
+    second: FF08.004|FF01|Take 001|BaseLayer.001
+  - first:
+      74: 1762303086671529819
+    second: FF08.004|FF01|Take 001|BaseLayer.003
+  - first:
+      74: -2065206756365453513
+    second: FF08.004|FF08|Take 001|BaseLayer.011
+  - first:
+      74: 8976627361392932888
+    second: FF08.004|FF08|Take 001|BaseLayer.012
+  - first:
+      74: 8526689760815596970
+    second: FF08.004|FF08|Take 001|BaseLayer.013
+  - first:
+      74: 2148737906031651579
+    second: FF08.004|FF08|Take 001|BaseLayer.014
+  - first:
+      74: -3457757890275827217
+    second: FF08.004|FF08|Take 001|BaseLayer.016
+  - first:
+      74: 3992576407111229129
+    second: FF08.004|FF08|Take 001|BaseLayer.017
+  - first:
+      74: 3082799330757131208
+    second: FF08.004|FF08|Take 001|BaseLayer.018
+  - first:
+      74: -9091592427963663527
+    second: FF08.004|FF08|Take 001|BaseLayer.019
+  - first:
+      74: 7949335432620413607
+    second: FF08.004|FF08|Take 001|BaseLayer.020
+  - first:
+      74: 5482907709347603259
+    second: FF08.004|FF08|Take 001|BaseLayer.021
+  - first:
+      74: 7415933530228411409
+    second: FF08.004|FF08|Take 001|BaseLayer.022
+  - first:
+      74: 8735744937130608020
+    second: FF08.004|FF08|Take 001|BaseLayer.023
+  - first:
+      74: -5481894569774791574
+    second: FF08.004|FF08|Take 001|BaseLayer.024
+  - first:
+      74: -4661937216295198923
+    second: FF08.004|FF08|Take 001|BaseLayer.025
+  - first:
+      74: 3278256615533572403
+    second: FF08.004|FF08|Take 001|BaseLayer.026
+  - first:
+      74: 1806704044468963284
+    second: FF08.004|FF08|Take 001|BaseLayer.027
+  - first:
+      74: 1567747687536023463
+    second: FF08.004|FF08|Take 001|BaseLayer.028
+  - first:
+      74: -3878700148233121794
+    second: FF08.004|FF08|Take 001|BaseLayer.029
+  - first:
+      74: -953118578188819611
+    second: FF08.004|FF08|Take 001|BaseLayer.030
+  - first:
+      74: -3833397783946468468
+    second: FF08.004|FF08|Take 001|BaseLayer.031
+  - first:
+      74: -849374005191557538
+    second: FF08.004|FF08|Take 001|BaseLayer.032
+  - first:
+      74: 4684148520967824348
+    second: FF08.004|FF20|Take 001|BaseLayer.001
+  - first:
+      74: 255906451513172750
+    second: FF08.004|FF20|Take 001|BaseLayer.002
+  - first:
+      74: 6002307422752238610
+    second: FF08.004|FF20|Take 001|BaseLayer.003
+  - first:
+      74: -2374172773536328813
+    second: FF08.004|FF22|Take 001|BaseLayer.002
+  - first:
+      74: -3118331018641045758
+    second: FF08.004|Shader NodetreeAction.004
+  - first:
+      74: -6170265072091132082
+    second: FF08.004|Shader NodetreeAction.007
+  - first:
+      74: -5564213468000376618
+    second: FF08.004|Shader NodetreeAction.012
+  - first:
+      74: 8465681413424248157
+    second: FF08.004|Shader NodetreeAction.015
+  - first:
+      74: 81594372157316514
+    second: FF08.004|Shader NodetreeAction.017
+  - first:
+      74: -7375522710750357418
+    second: FF08.004|Shader NodetreeAction.021
+  - first:
+      74: -9174879591810629694
+    second: FF08.004|Shader NodetreeAction.022
+  - first:
+      74: -7076756646475188971
+    second: FF08.003|FF01|Take 001|BaseLayer.001
+  - first:
+      74: 7550048634314822908
+    second: FF08.003|FF01|Take 001|BaseLayer.003
+  - first:
+      74: 5236813963553437132
+    second: FF08.003|FF08|Take 001|BaseLayer.011
+  - first:
+      74: 7964616526740318983
+    second: FF08.003|FF08|Take 001|BaseLayer.012
+  - first:
+      74: 3163085476054759185
+    second: FF08.003|FF08|Take 001|BaseLayer.013
+  - first:
+      74: 3644632933254479353
+    second: FF08.003|FF08|Take 001|BaseLayer.014
+  - first:
+      74: -8478663302787808412
+    second: FF08.003|FF08|Take 001|BaseLayer.016
+  - first:
+      74: -389534672994939113
+    second: FF08.003|FF08|Take 001|BaseLayer.017
+  - first:
+      74: -5496230642494398849
+    second: FF08.003|FF08|Take 001|BaseLayer.018
+  - first:
+      74: -3782817478604691985
+    second: FF08.003|FF08|Take 001|BaseLayer.019
+  - first:
+      74: 8287957688525919665
+    second: FF08.003|FF08|Take 001|BaseLayer.020
+  - first:
+      74: -251304943584471875
+    second: FF08.003|FF08|Take 001|BaseLayer.021
+  - first:
+      74: 7902473326608567951
+    second: FF08.003|FF08|Take 001|BaseLayer.022
+  - first:
+      74: -6153245858110662328
+    second: FF08.003|FF08|Take 001|BaseLayer.023
+  - first:
+      74: -5134139127478893042
+    second: FF08.003|FF08|Take 001|BaseLayer.024
+  - first:
+      74: -7570825310608655545
+    second: FF08.003|FF08|Take 001|BaseLayer.025
+  - first:
+      74: 2068215264201122601
+    second: FF08.003|FF08|Take 001|BaseLayer.026
+  - first:
+      74: -6277782778774257292
+    second: FF08.003|FF08|Take 001|BaseLayer.027
+  - first:
+      74: 1976745874356698710
+    second: FF08.003|FF08|Take 001|BaseLayer.028
+  - first:
+      74: -5434977141860669896
+    second: FF08.003|FF08|Take 001|BaseLayer.029
+  - first:
+      74: 5344900989598748542
+    second: FF08.003|FF08|Take 001|BaseLayer.030
+  - first:
+      74: 9178556191550845589
+    second: FF08.003|FF08|Take 001|BaseLayer.031
+  - first:
+      74: 2350666843563258088
+    second: FF08.003|FF08|Take 001|BaseLayer.032
+  - first:
+      74: -2075080733927312690
+    second: FF08.003|FF20|Take 001|BaseLayer.001
+  - first:
+      74: -821534577446882025
+    second: FF08.003|FF20|Take 001|BaseLayer.002
+  - first:
+      74: 661134173558737378
+    second: FF08.003|FF20|Take 001|BaseLayer.003
+  - first:
+      74: -4728536302707840914
+    second: FF08.003|FF22|Take 001|BaseLayer.002
+  - first:
+      74: 4483222270983840798
+    second: FF08.003|Shader NodetreeAction.004
+  - first:
+      74: 3643615283887706392
+    second: FF08.003|Shader NodetreeAction.007
+  - first:
+      74: 8931262789680765139
+    second: FF08.003|Shader NodetreeAction.012
+  - first:
+      74: -900183154209074250
+    second: FF08.003|Shader NodetreeAction.015
+  - first:
+      74: 532954598536523673
+    second: FF08.003|Shader NodetreeAction.017
+  - first:
+      74: -4394930653510892656
+    second: FF08.003|Shader NodetreeAction.021
+  - first:
+      74: 2494912506821618997
+    second: FF08.003|Shader NodetreeAction.022
+  - first:
+      74: -9073163307963757274
+    second: FF08.002|FF01|Take 001|BaseLayer.001
+  - first:
+      74: -6447252005223053272
+    second: FF08.002|FF01|Take 001|BaseLayer.003
+  - first:
+      74: 6048046992851314213
+    second: FF08.002|FF08|Take 001|BaseLayer.011
+  - first:
+      74: 5973314643706173984
+    second: FF08.002|FF08|Take 001|BaseLayer.012
+  - first:
+      74: 7948812263635565651
+    second: FF08.002|FF08|Take 001|BaseLayer.013
+  - first:
+      74: 5060791586447740836
+    second: FF08.002|FF08|Take 001|BaseLayer.014
+  - first:
+      74: 4935693975716362652
+    second: FF08.002|FF08|Take 001|BaseLayer.016
+  - first:
+      74: -8871190738027554384
+    second: FF08.002|FF08|Take 001|BaseLayer.017
+  - first:
+      74: -676325194512011485
+    second: FF08.002|FF08|Take 001|BaseLayer.018
+  - first:
+      74: -3579292952366626478
+    second: FF08.002|FF08|Take 001|BaseLayer.019
+  - first:
+      74: -1313263860315010186
+    second: FF08.002|FF08|Take 001|BaseLayer.020
+  - first:
+      74: -4981841198112112371
+    second: FF08.002|FF08|Take 001|BaseLayer.021
+  - first:
+      74: -3622138545888808748
+    second: FF08.002|FF08|Take 001|BaseLayer.022
+  - first:
+      74: -4638198520883405560
+    second: FF08.002|FF08|Take 001|BaseLayer.023
+  - first:
+      74: -597587642717906415
+    second: FF08.002|FF08|Take 001|BaseLayer.024
+  - first:
+      74: 9000020571461514613
+    second: FF08.002|FF08|Take 001|BaseLayer.025
+  - first:
+      74: -5553834576539222230
+    second: FF08.002|FF08|Take 001|BaseLayer.026
+  - first:
+      74: 2043778311072207211
+    second: FF08.002|FF08|Take 001|BaseLayer.027
+  - first:
+      74: -6301270853309414298
+    second: FF08.002|FF08|Take 001|BaseLayer.028
+  - first:
+      74: -9103092359518634148
+    second: FF08.002|FF08|Take 001|BaseLayer.029
+  - first:
+      74: -8554466348215579953
+    second: FF08.002|FF08|Take 001|BaseLayer.030
+  - first:
+      74: 4359434488125289670
+    second: FF08.002|FF08|Take 001|BaseLayer.031
+  - first:
+      74: -3675135888319715075
+    second: FF08.002|FF08|Take 001|BaseLayer.032
+  - first:
+      74: 3677428531633470673
+    second: FF08.002|FF20|Take 001|BaseLayer.001
+  - first:
+      74: -5305727245029638566
+    second: FF08.002|FF20|Take 001|BaseLayer.002
+  - first:
+      74: 10163727296171732
+    second: FF08.002|FF20|Take 001|BaseLayer.003
+  - first:
+      74: -7919004167235891335
+    second: FF08.002|FF22|Take 001|BaseLayer.002
+  - first:
+      74: 3766986422889575334
+    second: FF08.002|Shader NodetreeAction.004
+  - first:
+      74: -460956631868780330
+    second: FF08.002|Shader NodetreeAction.007
+  - first:
+      74: 2538908128098103427
+    second: FF08.002|Shader NodetreeAction.012
+  - first:
+      74: 6243133863384522306
+    second: FF08.002|Shader NodetreeAction.015
+  - first:
+      74: 3601394895083858155
+    second: FF08.002|Shader NodetreeAction.017
+  - first:
+      74: -4867384631774963378
+    second: FF08.002|Shader NodetreeAction.021
+  - first:
+      74: 5233916512214473519
+    second: FF08.002|Shader NodetreeAction.022
+  - first:
+      74: 893604104139371889
+    second: FF08.001|FF01|Take 001|BaseLayer.001
+  - first:
+      74: -445611086043402032
+    second: FF08.001|FF01|Take 001|BaseLayer.003
+  - first:
+      74: 4145881115916761540
+    second: FF08.001|FF08|Take 001|BaseLayer.011
+  - first:
+      74: -5270796709246799953
+    second: FF08.001|FF08|Take 001|BaseLayer.012
+  - first:
+      74: -1763688747130745846
+    second: FF08.001|FF08|Take 001|BaseLayer.013
+  - first:
+      74: -527731383315722585
+    second: FF08.001|FF08|Take 001|BaseLayer.014
+  - first:
+      74: -7111537502773588996
+    second: FF08.001|FF08|Take 001|BaseLayer.016
+  - first:
+      74: -2635595144583649171
+    second: FF08.001|FF08|Take 001|BaseLayer.017
+  - first:
+      74: 1907503510105693914
+    second: FF08.001|FF08|Take 001|BaseLayer.018
+  - first:
+      74: 2577135501763096516
+    second: FF08.001|FF08|Take 001|BaseLayer.019
+  - first:
+      74: 5193145855026582948
+    second: FF08.001|FF08|Take 001|BaseLayer.020
+  - first:
+      74: -3766412877922608764
+    second: FF08.001|FF08|Take 001|BaseLayer.021
+  - first:
+      74: -3439530937958485829
+    second: FF08.001|FF08|Take 001|BaseLayer.022
+  - first:
+      74: 7757582052933141797
+    second: FF08.001|FF08|Take 001|BaseLayer.023
+  - first:
+      74: -8297232615435256810
+    second: FF08.001|FF08|Take 001|BaseLayer.024
+  - first:
+      74: -8900933219518063877
+    second: FF08.001|FF08|Take 001|BaseLayer.025
+  - first:
+      74: -3797686062438088286
+    second: FF08.001|FF08|Take 001|BaseLayer.026
+  - first:
+      74: 4456521682098196629
+    second: FF08.001|FF08|Take 001|BaseLayer.027
+  - first:
+      74: 6828284191022519698
+    second: FF08.001|FF08|Take 001|BaseLayer.028
+  - first:
+      74: 8158936048136701334
+    second: FF08.001|FF08|Take 001|BaseLayer.029
+  - first:
+      74: -4405230306041189425
+    second: FF08.001|FF08|Take 001|BaseLayer.030
+  - first:
+      74: -5293458298958533470
+    second: FF08.001|FF08|Take 001|BaseLayer.031
+  - first:
+      74: -8622483386831450155
+    second: FF08.001|FF08|Take 001|BaseLayer.032
+  - first:
+      74: -8278396970993394835
+    second: FF08.001|FF20|Take 001|BaseLayer.001
+  - first:
+      74: 6809789971536802436
+    second: FF08.001|FF20|Take 001|BaseLayer.002
+  - first:
+      74: -2265705005504600597
+    second: FF08.001|FF20|Take 001|BaseLayer.003
+  - first:
+      74: 7592787474659106552
+    second: FF08.001|FF22|Take 001|BaseLayer.002
+  - first:
+      74: 228170853269578290
+    second: FF08.001|Shader NodetreeAction.004
+  - first:
+      74: 8958036463189622135
+    second: FF08.001|Shader NodetreeAction.007
+  - first:
+      74: -7131939360242248745
+    second: FF08.001|Shader NodetreeAction.012
+  - first:
+      74: 5420612290490651045
+    second: FF08.001|Shader NodetreeAction.015
+  - first:
+      74: -8805256135147130878
+    second: FF08.001|Shader NodetreeAction.017
+  - first:
+      74: 5073742522286362377
+    second: FF08.001|Shader NodetreeAction.021
+  - first:
+      74: -7233855000150217443
+    second: FF08.001|Shader NodetreeAction.022
+  - first:
+      74: 6421105042454266826
+    second: FF08.005|FF01|Take 001|BaseLayer.001
+  - first:
+      74: -8394516084586837481
+    second: FF08.005|FF01|Take 001|BaseLayer.003
+  - first:
+      74: 3390223127094306657
+    second: FF08.005|FF08|Take 001|BaseLayer.011
+  - first:
+      74: 6678800126782086412
+    second: FF08.005|FF08|Take 001|BaseLayer.012
+  - first:
+      74: -9084084937391315453
+    second: FF08.005|FF08|Take 001|BaseLayer.013
+  - first:
+      74: 7297302718702031374
+    second: FF08.005|FF08|Take 001|BaseLayer.014
+  - first:
+      74: -6971637160620428500
+    second: FF08.005|FF08|Take 001|BaseLayer.016
+  - first:
+      74: 4988768708804990521
+    second: FF08.005|FF08|Take 001|BaseLayer.017
+  - first:
+      74: 8449755144268698694
+    second: FF08.005|FF08|Take 001|BaseLayer.018
+  - first:
+      74: -4554652876562994008
+    second: FF08.005|FF08|Take 001|BaseLayer.019
+  - first:
+      74: 4038303104881221454
+    second: FF08.005|FF08|Take 001|BaseLayer.020
+  - first:
+      74: 6397741815849024421
+    second: FF08.005|FF08|Take 001|BaseLayer.021
+  - first:
+      74: -6238507291954370705
+    second: FF08.005|FF08|Take 001|BaseLayer.022
+  - first:
+      74: -974642877589478573
+    second: FF08.005|FF08|Take 001|BaseLayer.023
+  - first:
+      74: 3713294108636872348
+    second: FF08.005|FF08|Take 001|BaseLayer.024
+  - first:
+      74: -6339165641301036919
+    second: FF08.005|FF08|Take 001|BaseLayer.025
+  - first:
+      74: -3535892205318308993
+    second: FF08.005|FF08|Take 001|BaseLayer.026
+  - first:
+      74: -6425337525039774764
+    second: FF08.005|FF08|Take 001|BaseLayer.027
+  - first:
+      74: -1291734978213523581
+    second: FF08.005|FF08|Take 001|BaseLayer.028
+  - first:
+      74: 7485194799323685339
+    second: FF08.005|FF08|Take 001|BaseLayer.029
+  - first:
+      74: 2604024022997045034
+    second: FF08.005|FF08|Take 001|BaseLayer.030
+  - first:
+      74: 4908488214100285558
+    second: FF08.005|FF08|Take 001|BaseLayer.031
+  - first:
+      74: 1101178298689612537
+    second: FF08.005|FF08|Take 001|BaseLayer.032
+  - first:
+      74: 802117509443904910
+    second: FF08.005|FF20|Take 001|BaseLayer.001
+  - first:
+      74: -1493550462688910800
+    second: FF08.005|FF20|Take 001|BaseLayer.002
+  - first:
+      74: 7574550646947003053
+    second: FF08.005|FF20|Take 001|BaseLayer.003
+  - first:
+      74: 4231727694030232779
+    second: FF08.005|FF22|Take 001|BaseLayer.002
+  - first:
+      74: -3609377544667976995
+    second: FF08.005|Shader NodetreeAction.004
+  - first:
+      74: -4456047988654262708
+    second: FF08.005|Shader NodetreeAction.007
+  - first:
+      74: 4829408903739932824
+    second: FF08.005|Shader NodetreeAction.012
+  - first:
+      74: -8657382235826145081
+    second: FF08.005|Shader NodetreeAction.015
+  - first:
+      74: 2959970787361233783
+    second: FF08.005|Shader NodetreeAction.017
+  - first:
+      74: 1613490222416946884
+    second: FF08.005|Shader NodetreeAction.021
+  - first:
+      74: -4005430598856390799
+    second: FF08.005|Shader NodetreeAction.022
+  - first:
+      74: 5846953124861686803
+    second: FF08.006|FF01|Take 001|BaseLayer.001
+  - first:
+      74: 363267289908804009
+    second: FF08.006|FF01|Take 001|BaseLayer.003
+  - first:
+      74: -1081665661467732372
+    second: FF08.006|FF08|Take 001|BaseLayer.011
+  - first:
+      74: 3147483228901152192
+    second: FF08.006|FF08|Take 001|BaseLayer.012
+  - first:
+      74: -2507857837753900137
+    second: FF08.006|FF08|Take 001|BaseLayer.013
+  - first:
+      74: -2899971121215115671
+    second: FF08.006|FF08|Take 001|BaseLayer.014
+  - first:
+      74: 454063739266349147
+    second: FF08.006|FF08|Take 001|BaseLayer.016
+  - first:
+      74: -4457176248891356578
+    second: FF08.006|FF08|Take 001|BaseLayer.017
+  - first:
+      74: 2559994110742844156
+    second: FF08.006|FF08|Take 001|BaseLayer.018
+  - first:
+      74: -6768149987716633555
+    second: FF08.006|FF08|Take 001|BaseLayer.019
+  - first:
+      74: 5437612380016283328
+    second: FF08.006|FF08|Take 001|BaseLayer.020
+  - first:
+      74: -8642191340636985272
+    second: FF08.006|FF08|Take 001|BaseLayer.021
+  - first:
+      74: -5294487932061383184
+    second: FF08.006|FF08|Take 001|BaseLayer.022
+  - first:
+      74: -1571716929300131271
+    second: FF08.006|FF08|Take 001|BaseLayer.023
+  - first:
+      74: 1096991829140963587
+    second: FF08.006|FF08|Take 001|BaseLayer.024
+  - first:
+      74: -5790492003593764556
+    second: FF08.006|FF08|Take 001|BaseLayer.025
+  - first:
+      74: 2384287035196364949
+    second: FF08.006|FF08|Take 001|BaseLayer.026
+  - first:
+      74: -3957862029906598374
+    second: FF08.006|FF08|Take 001|BaseLayer.027
+  - first:
+      74: 4599962599025358775
+    second: FF08.006|FF08|Take 001|BaseLayer.028
+  - first:
+      74: -6924231978024522167
+    second: FF08.006|FF08|Take 001|BaseLayer.029
+  - first:
+      74: 5176900609855200991
+    second: FF08.006|FF08|Take 001|BaseLayer.030
+  - first:
+      74: -5864237243279824167
+    second: FF08.006|FF08|Take 001|BaseLayer.031
+  - first:
+      74: 4796961838395094350
+    second: FF08.006|FF08|Take 001|BaseLayer.032
+  - first:
+      74: 542034082055219477
+    second: FF08.006|FF20|Take 001|BaseLayer.001
+  - first:
+      74: -3681975633307566546
+    second: FF08.006|FF20|Take 001|BaseLayer.002
+  - first:
+      74: -300974377717309394
+    second: FF08.006|FF20|Take 001|BaseLayer.003
+  - first:
+      74: 1465041387700682283
+    second: FF08.006|FF22|Take 001|BaseLayer.002
+  - first:
+      74: 8574941333811596289
+    second: FF08.006|Shader NodetreeAction.004
+  - first:
+      74: 7280830701801713543
+    second: FF08.006|Shader NodetreeAction.007
+  - first:
+      74: -1146841376396118529
+    second: FF08.006|Shader NodetreeAction.012
+  - first:
+      74: 2386273695771831624
+    second: FF08.006|Shader NodetreeAction.015
+  - first:
+      74: -7283532801978708272
+    second: FF08.006|Shader NodetreeAction.017
+  - first:
+      74: -6897710835965984393
+    second: FF08.006|Shader NodetreeAction.021
+  - first:
+      74: -6374125730929395984
+    second: FF08.006|Shader NodetreeAction.022
+  - first:
+      74: 7738912833274022622
+    second: FF08.007|FF01|Take 001|BaseLayer.001
+  - first:
+      74: -6845141907416762738
+    second: FF08.007|FF01|Take 001|BaseLayer.003
+  - first:
+      74: 5576176909684702739
+    second: FF08.007|FF08|Take 001|BaseLayer.011
+  - first:
+      74: -5891743048069080727
+    second: FF08.007|FF08|Take 001|BaseLayer.012
+  - first:
+      74: -3102599928722636169
+    second: FF08.007|FF08|Take 001|BaseLayer.013
+  - first:
+      74: 989633009171917967
+    second: FF08.007|FF08|Take 001|BaseLayer.014
+  - first:
+      74: 3925914399905306736
+    second: FF08.007|FF08|Take 001|BaseLayer.016
+  - first:
+      74: -8419216097204598522
+    second: FF08.007|FF08|Take 001|BaseLayer.017
+  - first:
+      74: -2037801381486677401
+    second: FF08.007|FF08|Take 001|BaseLayer.018
+  - first:
+      74: -829076197818384882
+    second: FF08.007|FF08|Take 001|BaseLayer.019
+  - first:
+      74: 9143154944823474885
+    second: FF08.007|FF08|Take 001|BaseLayer.020
+  - first:
+      74: 7578531125561254663
+    second: FF08.007|FF08|Take 001|BaseLayer.021
+  - first:
+      74: 7893372380155021657
+    second: FF08.007|FF08|Take 001|BaseLayer.022
+  - first:
+      74: -1324592530820825786
+    second: FF08.007|FF08|Take 001|BaseLayer.023
+  - first:
+      74: 7087753331084974128
+    second: FF08.007|FF08|Take 001|BaseLayer.024
+  - first:
+      74: 8855989808387046108
+    second: FF08.007|FF08|Take 001|BaseLayer.025
+  - first:
+      74: -4845448817688802757
+    second: FF08.007|FF08|Take 001|BaseLayer.026
+  - first:
+      74: -709991534093989053
+    second: FF08.007|FF08|Take 001|BaseLayer.027
+  - first:
+      74: -4781066491789803833
+    second: FF08.007|FF08|Take 001|BaseLayer.028
+  - first:
+      74: -167208005503371057
+    second: FF08.007|FF08|Take 001|BaseLayer.029
+  - first:
+      74: -5289124295735902717
+    second: FF08.007|FF08|Take 001|BaseLayer.030
+  - first:
+      74: 8068546069979933745
+    second: FF08.007|FF08|Take 001|BaseLayer.031
+  - first:
+      74: -426950246243539677
+    second: FF08.007|FF08|Take 001|BaseLayer.032
+  - first:
+      74: -8417182879417108341
+    second: FF08.007|FF20|Take 001|BaseLayer.001
+  - first:
+      74: -7966674666229818574
+    second: FF08.007|FF20|Take 001|BaseLayer.002
+  - first:
+      74: -189502939465303451
+    second: FF08.007|FF20|Take 001|BaseLayer.003
+  - first:
+      74: 8862623624650255316
+    second: FF08.007|FF22|Take 001|BaseLayer.002
+  - first:
+      74: 9167432876691013601
+    second: FF08.007|Shader NodetreeAction.004
+  - first:
+      74: -5503022995273407794
+    second: FF08.007|Shader NodetreeAction.007
+  - first:
+      74: 2796278522770144157
+    second: FF08.007|Shader NodetreeAction.012
+  - first:
+      74: 6405270777022712496
+    second: FF08.007|Shader NodetreeAction.015
+  - first:
+      74: 3430858087843751927
+    second: FF08.007|Shader NodetreeAction.017
+  - first:
+      74: -8255791646262291498
+    second: FF08.007|Shader NodetreeAction.021
+  - first:
+      74: -2682130691747003532
+    second: FF08.007|Shader NodetreeAction.022
+  - first:
+      74: 4781858513586353970
+    second: FF08.008|FF01|Take 001|BaseLayer.001
+  - first:
+      74: 3092043684915215915
+    second: FF08.008|FF01|Take 001|BaseLayer.003
+  - first:
+      74: 8433771143510805843
+    second: FF08.008|FF08|Take 001|BaseLayer.011
+  - first:
+      74: -6524061992675752313
+    second: FF08.008|FF08|Take 001|BaseLayer.012
+  - first:
+      74: -1841257856882868609
+    second: FF08.008|FF08|Take 001|BaseLayer.013
+  - first:
+      74: 9093838091476378040
+    second: FF08.008|FF08|Take 001|BaseLayer.014
+  - first:
+      74: 8175708281383786235
+    second: FF08.008|FF08|Take 001|BaseLayer.016
+  - first:
+      74: 8852887891361701004
+    second: FF08.008|FF08|Take 001|BaseLayer.017
+  - first:
+      74: 244229266769062710
+    second: FF08.008|FF08|Take 001|BaseLayer.018
+  - first:
+      74: 6891130980736356225
+    second: FF08.008|FF08|Take 001|BaseLayer.019
+  - first:
+      74: 4908183623401406479
+    second: FF08.008|FF08|Take 001|BaseLayer.020
+  - first:
+      74: 4509756341126128789
+    second: FF08.008|FF08|Take 001|BaseLayer.021
+  - first:
+      74: 4143449168402214501
+    second: FF08.008|FF08|Take 001|BaseLayer.022
+  - first:
+      74: 2538766505073786199
+    second: FF08.008|FF08|Take 001|BaseLayer.023
+  - first:
+      74: 668328727336691644
+    second: FF08.008|FF08|Take 001|BaseLayer.024
+  - first:
+      74: -296644475890473129
+    second: FF08.008|FF08|Take 001|BaseLayer.025
+  - first:
+      74: 5961889437141359961
+    second: FF08.008|FF08|Take 001|BaseLayer.026
+  - first:
+      74: 8632496625689835485
+    second: FF08.008|FF08|Take 001|BaseLayer.027
+  - first:
+      74: 1590597846848571981
+    second: FF08.008|FF08|Take 001|BaseLayer.028
+  - first:
+      74: 1574349011254621452
+    second: FF08.008|FF08|Take 001|BaseLayer.029
+  - first:
+      74: 8245813738364399475
+    second: FF08.008|FF08|Take 001|BaseLayer.030
+  - first:
+      74: -3105056132654785112
+    second: FF08.008|FF08|Take 001|BaseLayer.031
+  - first:
+      74: 5657520074881132470
+    second: FF08.008|FF08|Take 001|BaseLayer.032
+  - first:
+      74: 8571145937337079844
+    second: FF08.008|FF20|Take 001|BaseLayer.001
+  - first:
+      74: -4036324844324176162
+    second: FF08.008|FF20|Take 001|BaseLayer.002
+  - first:
+      74: -1577977893334984091
+    second: FF08.008|FF20|Take 001|BaseLayer.003
+  - first:
+      74: 7019832273283483508
+    second: FF08.008|FF22|Take 001|BaseLayer.002
+  - first:
+      74: -8262107648891379022
+    second: FF08.008|Shader NodetreeAction.004
+  - first:
+      74: 2591141873476920566
+    second: FF08.008|Shader NodetreeAction.007
+  - first:
+      74: -6036412042990452577
+    second: FF08.008|Shader NodetreeAction.012
+  - first:
+      74: 2342369112703840742
+    second: FF08.008|Shader NodetreeAction.015
+  - first:
+      74: -1197782266235639051
+    second: FF08.008|Shader NodetreeAction.017
+  - first:
+      74: -214087511134213782
+    second: FF08.008|Shader NodetreeAction.021
+  - first:
+      74: -8968314994764005233
+    second: FF08.008|Shader NodetreeAction.022
+  - first:
+      74: 4717289571674099956
+    second: FF08.009|FF01|Take 001|BaseLayer.001
+  - first:
+      74: 1065668380515915927
+    second: FF08.009|FF01|Take 001|BaseLayer.003
+  - first:
+      74: 7725965681584982707
+    second: FF08.009|FF08|Take 001|BaseLayer.011
+  - first:
+      74: 1687095043955841111
+    second: FF08.009|FF08|Take 001|BaseLayer.012
+  - first:
+      74: -859438482773880324
+    second: FF08.009|FF08|Take 001|BaseLayer.013
+  - first:
+      74: 5223557959461718751
+    second: FF08.009|FF08|Take 001|BaseLayer.014
+  - first:
+      74: -2580666632721587018
+    second: FF08.009|FF08|Take 001|BaseLayer.016
+  - first:
+      74: 5576163187811385979
+    second: FF08.009|FF08|Take 001|BaseLayer.017
+  - first:
+      74: 2786498124051691518
+    second: FF08.009|FF08|Take 001|BaseLayer.018
+  - first:
+      74: 1828536582340228230
+    second: FF08.009|FF08|Take 001|BaseLayer.019
+  - first:
+      74: 2676622967163673768
+    second: FF08.009|FF08|Take 001|BaseLayer.020
+  - first:
+      74: -8685610605160194139
+    second: FF08.009|FF08|Take 001|BaseLayer.021
+  - first:
+      74: 2153895225628603470
+    second: FF08.009|FF08|Take 001|BaseLayer.022
+  - first:
+      74: 7188484907690027436
+    second: FF08.009|FF08|Take 001|BaseLayer.023
+  - first:
+      74: 4980925752843792679
+    second: FF08.009|FF08|Take 001|BaseLayer.024
+  - first:
+      74: 3117006820759579755
+    second: FF08.009|FF08|Take 001|BaseLayer.025
+  - first:
+      74: -5607254478985058106
+    second: FF08.009|FF08|Take 001|BaseLayer.026
+  - first:
+      74: -5749891959236540038
+    second: FF08.009|FF08|Take 001|BaseLayer.027
+  - first:
+      74: -4208692567217909563
+    second: FF08.009|FF08|Take 001|BaseLayer.028
+  - first:
+      74: 3324982179917073558
+    second: FF08.009|FF08|Take 001|BaseLayer.029
+  - first:
+      74: -6043982774122518732
+    second: FF08.009|FF08|Take 001|BaseLayer.030
+  - first:
+      74: -3204478866406822706
+    second: FF08.009|FF08|Take 001|BaseLayer.031
+  - first:
+      74: 7150752076152149653
+    second: FF08.009|FF08|Take 001|BaseLayer.032
+  - first:
+      74: 7735131310321204981
+    second: FF08.009|FF20|Take 001|BaseLayer.001
+  - first:
+      74: 8688530766448328921
+    second: FF08.009|FF20|Take 001|BaseLayer.002
+  - first:
+      74: -2314895726746448040
+    second: FF08.009|FF20|Take 001|BaseLayer.003
+  - first:
+      74: -846327243486813189
+    second: FF08.009|FF22|Take 001|BaseLayer.002
+  - first:
+      74: -3964762915343672600
+    second: FF08.009|Shader NodetreeAction.004
+  - first:
+      74: 6048531874996835160
+    second: FF08.009|Shader NodetreeAction.007
+  - first:
+      74: 1415145469270724698
+    second: FF08.009|Shader NodetreeAction.012
+  - first:
+      74: 7099180128620162043
+    second: FF08.009|Shader NodetreeAction.015
+  - first:
+      74: 2669950060796370476
+    second: FF08.009|Shader NodetreeAction.017
+  - first:
+      74: -4656713891989045405
+    second: FF08.009|Shader NodetreeAction.021
+  - first:
+      74: -3347091909006297420
+    second: FF08.009|Shader NodetreeAction.022
+  - first:
+      74: -1656937513850331468
+    second: FF08.010|FF01|Take 001|BaseLayer.001
+  - first:
+      74: -8660480995199858067
+    second: FF08.010|FF01|Take 001|BaseLayer.003
+  - first:
+      74: 3643833769242873673
+    second: FF08.010|FF08|Take 001|BaseLayer.011
+  - first:
+      74: 5558502430942179966
+    second: FF08.010|FF08|Take 001|BaseLayer.012
+  - first:
+      74: -1543575298414796190
+    second: FF08.010|FF08|Take 001|BaseLayer.013
+  - first:
+      74: 1193609984948594801
+    second: FF08.010|FF08|Take 001|BaseLayer.014
+  - first:
+      74: 3039254105143016320
+    second: FF08.010|FF08|Take 001|BaseLayer.016
+  - first:
+      74: 3425405432062699632
+    second: FF08.010|FF08|Take 001|BaseLayer.017
+  - first:
+      74: 7489687832933631108
+    second: FF08.010|FF08|Take 001|BaseLayer.018
+  - first:
+      74: 4528349274692565731
+    second: FF08.010|FF08|Take 001|BaseLayer.019
+  - first:
+      74: 4929528750082189528
+    second: FF08.010|FF08|Take 001|BaseLayer.020
+  - first:
+      74: 4104086782204746442
+    second: FF08.010|FF08|Take 001|BaseLayer.021
+  - first:
+      74: 702334135570320761
+    second: FF08.010|FF08|Take 001|BaseLayer.022
+  - first:
+      74: -3320377892617063913
+    second: FF08.010|FF08|Take 001|BaseLayer.023
+  - first:
+      74: 4755914193508246343
+    second: FF08.010|FF08|Take 001|BaseLayer.024
+  - first:
+      74: 82511953768071090
+    second: FF08.010|FF08|Take 001|BaseLayer.025
+  - first:
+      74: -2026326367410532322
+    second: FF08.010|FF08|Take 001|BaseLayer.026
+  - first:
+      74: -7704597608878032069
+    second: FF08.010|FF08|Take 001|BaseLayer.027
+  - first:
+      74: -5924617024783058109
+    second: FF08.010|FF08|Take 001|BaseLayer.028
+  - first:
+      74: -2197940500635113151
+    second: FF08.010|FF08|Take 001|BaseLayer.029
+  - first:
+      74: 3168102179507717179
+    second: FF08.010|FF08|Take 001|BaseLayer.030
+  - first:
+      74: -7523483460441545888
+    second: FF08.010|FF08|Take 001|BaseLayer.031
+  - first:
+      74: -7325494680142635340
+    second: FF08.010|FF08|Take 001|BaseLayer.032
+  - first:
+      74: 1848140279800100772
+    second: FF08.010|FF20|Take 001|BaseLayer.001
+  - first:
+      74: 7696123145470202620
+    second: FF08.010|FF20|Take 001|BaseLayer.002
+  - first:
+      74: 2695599376936414534
+    second: FF08.010|FF20|Take 001|BaseLayer.003
+  - first:
+      74: -7320736283211708029
+    second: FF08.010|FF22|Take 001|BaseLayer.002
+  - first:
+      74: 2609528351216816550
+    second: FF08.010|Shader NodetreeAction.004
+  - first:
+      74: -6566896361510412377
+    second: FF08.010|Shader NodetreeAction.007
+  - first:
+      74: -6084933575590778181
+    second: FF08.010|Shader NodetreeAction.012
+  - first:
+      74: -8783379646515030275
+    second: FF08.010|Shader NodetreeAction.015
+  - first:
+      74: -2567909471011116544
+    second: FF08.010|Shader NodetreeAction.017
+  - first:
+      74: -6399246680235019991
+    second: FF08.010|Shader NodetreeAction.021
+  - first:
+      74: -1538887645150555542
+    second: FF08.010|Shader NodetreeAction.022
+  - first:
+      74: 3903200988321227366
+    second: FF08.012|FF01|Take 001|BaseLayer.001
+  - first:
+      74: -649666800854664539
+    second: FF08.012|FF01|Take 001|BaseLayer.003
+  - first:
+      74: -2151998077250285131
+    second: FF08.012|FF08|Take 001|BaseLayer.011
+  - first:
+      74: -8832115502161809367
+    second: FF08.012|FF08|Take 001|BaseLayer.012
+  - first:
+      74: -9219101024187031625
+    second: FF08.012|FF08|Take 001|BaseLayer.013
+  - first:
+      74: 5318449992433420570
+    second: FF08.012|FF08|Take 001|BaseLayer.014
+  - first:
+      74: -7782171664483717890
+    second: FF08.012|FF08|Take 001|BaseLayer.016
+  - first:
+      74: -3827307939374191381
+    second: FF08.012|FF08|Take 001|BaseLayer.017
+  - first:
+      74: -4888359000277588035
+    second: FF08.012|FF08|Take 001|BaseLayer.018
+  - first:
+      74: 7545359068580935709
+    second: FF08.012|FF08|Take 001|BaseLayer.019
+  - first:
+      74: -7502863096297311613
+    second: FF08.012|FF08|Take 001|BaseLayer.020
+  - first:
+      74: -7066795977440519937
+    second: FF08.012|FF08|Take 001|BaseLayer.021
+  - first:
+      74: -4887632688572736445
+    second: FF08.012|FF08|Take 001|BaseLayer.022
+  - first:
+      74: -8864450275015245314
+    second: FF08.012|FF08|Take 001|BaseLayer.023
+  - first:
+      74: -5315482728071211252
+    second: FF08.012|FF08|Take 001|BaseLayer.024
+  - first:
+      74: -8309171750182858447
+    second: FF08.012|FF08|Take 001|BaseLayer.025
+  - first:
+      74: 5371749463306937204
+    second: FF08.012|FF08|Take 001|BaseLayer.026
+  - first:
+      74: 8290859526371950462
+    second: FF08.012|FF08|Take 001|BaseLayer.027
+  - first:
+      74: 4493174424699094941
+    second: FF08.012|FF08|Take 001|BaseLayer.028
+  - first:
+      74: -7132221126858697072
+    second: FF08.012|FF08|Take 001|BaseLayer.029
+  - first:
+      74: -390679404741216531
+    second: FF08.012|FF08|Take 001|BaseLayer.030
+  - first:
+      74: -3671015783684990747
+    second: FF08.012|FF08|Take 001|BaseLayer.031
+  - first:
+      74: 3658904372115178565
+    second: FF08.012|FF08|Take 001|BaseLayer.032
+  - first:
+      74: -9172573778646747028
+    second: FF08.012|FF20|Take 001|BaseLayer.001
+  - first:
+      74: -4527127978235507720
+    second: FF08.012|FF20|Take 001|BaseLayer.002
+  - first:
+      74: -5348852420877065880
+    second: FF08.012|FF20|Take 001|BaseLayer.003
+  - first:
+      74: -4224973953807593125
+    second: FF08.012|FF22|Take 001|BaseLayer.002
+  - first:
+      74: -2343127155855328949
+    second: FF08.012|Shader NodetreeAction.004
+  - first:
+      74: -7318707242061979552
+    second: FF08.012|Shader NodetreeAction.007
+  - first:
+      74: 5580773510992479330
+    second: FF08.012|Shader NodetreeAction.012
+  - first:
+      74: -2986956479445105800
+    second: FF08.012|Shader NodetreeAction.015
+  - first:
+      74: -4039930278952747852
+    second: FF08.012|Shader NodetreeAction.017
+  - first:
+      74: -3526057949915151285
+    second: FF08.012|Shader NodetreeAction.021
+  - first:
+      74: 8112389399851402912
+    second: FF08.012|Shader NodetreeAction.022
+  - first:
+      74: -1415254381051060234
+    second: FF08.021|FF01|Take 001|BaseLayer.001
+  - first:
+      74: 4189079302896699439
+    second: FF08.021|FF01|Take 001|BaseLayer.003
+  - first:
+      74: -989708150005357209
+    second: FF08.021|FF08|Take 001|BaseLayer.011
+  - first:
+      74: -4754476047831213036
+    second: FF08.021|FF08|Take 001|BaseLayer.012
+  - first:
+      74: -8038572260369315093
+    second: FF08.021|FF08|Take 001|BaseLayer.013
+  - first:
+      74: -83821001451682566
+    second: FF08.021|FF08|Take 001|BaseLayer.014
+  - first:
+      74: -5931488206955627160
+    second: FF08.021|FF08|Take 001|BaseLayer.016
+  - first:
+      74: 7621713633521863011
+    second: FF08.021|FF08|Take 001|BaseLayer.017
+  - first:
+      74: -4532737295693865106
+    second: FF08.021|FF08|Take 001|BaseLayer.018
+  - first:
+      74: -5084054692623207635
+    second: FF08.021|FF08|Take 001|BaseLayer.019
+  - first:
+      74: -1198502077171618541
+    second: FF08.021|FF08|Take 001|BaseLayer.020
+  - first:
+      74: -3653917845394007387
+    second: FF08.021|FF08|Take 001|BaseLayer.021
+  - first:
+      74: 1308361089016588651
+    second: FF08.021|FF08|Take 001|BaseLayer.022
+  - first:
+      74: 1438194216514307833
+    second: FF08.021|FF08|Take 001|BaseLayer.023
+  - first:
+      74: -11919867312721859
+    second: FF08.021|FF08|Take 001|BaseLayer.024
+  - first:
+      74: -5679095269182196985
+    second: FF08.021|FF08|Take 001|BaseLayer.025
+  - first:
+      74: -6337818836113611588
+    second: FF08.021|FF08|Take 001|BaseLayer.026
+  - first:
+      74: 8562113886379632455
+    second: FF08.021|FF08|Take 001|BaseLayer.027
+  - first:
+      74: 1584543015706052491
+    second: FF08.021|FF08|Take 001|BaseLayer.028
+  - first:
+      74: -3188738309261504930
+    second: FF08.021|FF08|Take 001|BaseLayer.029
+  - first:
+      74: 6578641978856256863
+    second: FF08.021|FF08|Take 001|BaseLayer.030
+  - first:
+      74: 6333398818136901089
+    second: FF08.021|FF08|Take 001|BaseLayer.031
+  - first:
+      74: 1668812243529128904
+    second: FF08.021|FF08|Take 001|BaseLayer.032
+  - first:
+      74: -3921352944156315289
+    second: FF08.021|FF20|Take 001|BaseLayer.001
+  - first:
+      74: 1602330816319452147
+    second: FF08.021|FF20|Take 001|BaseLayer.002
+  - first:
+      74: -4757231743414628414
+    second: FF08.021|FF20|Take 001|BaseLayer.003
+  - first:
+      74: 5485209989764848154
+    second: FF08.021|FF22|Take 001|BaseLayer.002
+  - first:
+      74: 4025458240776350387
+    second: FF08.021|Shader NodetreeAction.004
+  - first:
+      74: 6921737203239848089
+    second: FF08.021|Shader NodetreeAction.007
+  - first:
+      74: -8051126494500839019
+    second: FF08.021|Shader NodetreeAction.012
+  - first:
+      74: 2080420912533993169
+    second: FF08.021|Shader NodetreeAction.015
+  - first:
+      74: -6879947419517624383
+    second: FF08.021|Shader NodetreeAction.017
+  - first:
+      74: 9187913161714468404
+    second: FF08.021|Shader NodetreeAction.021
+  - first:
+      74: -4473391993977193816
+    second: FF08.021|Shader NodetreeAction.022
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
