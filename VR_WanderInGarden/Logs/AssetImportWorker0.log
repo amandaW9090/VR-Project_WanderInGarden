@@ -15,7 +15,7 @@ C:/Users/danw9/Documents/GitHub/VR-Project_WanderInGarden/VR_WanderInGarden
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-50262
+26785
 Successfully changed project path to: C:/Users/danw9/Documents/GitHub/VR-Project_WanderInGarden/VR_WanderInGarden
 C:/Users/danw9/Documents/GitHub/VR-Project_WanderInGarden/VR_WanderInGarden
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -48,7 +48,7 @@ C:/Users/danw9/Documents/GitHub/VR-Project_WanderInGarden/VR_WanderInGarden
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
 AS: AutoStreaming module initializing.
-Refreshing native plugins compatible for Editor in 46.26 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 87.70 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.6f1c1 (07401303b748)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.6f1c1/Editor/Data/Resources/UnitySubsystems
@@ -64,87 +64,87 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1c1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1c1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56224
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56996
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.6f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.107554 seconds.
+Registered in 0.184198 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 35.13 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 96.40 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.067 seconds
+- Completed reload, in  3.214 seconds
 Domain Reload Profiling:
-	ReloadAssembly (2067ms)
-		BeginReloadAssembly (648ms)
+	ReloadAssembly (3215ms)
+		BeginReloadAssembly (515ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (672ms)
-			LoadAssemblies (615ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (142ms)
+		EndReloadAssembly (1663ms)
+			LoadAssemblies (475ms)
+			RebuildTransferFunctionScriptingTraits (1ms)
+			SetupTypeCache (494ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (48ms)
-			SetupLoadedEditorAssemblies (256ms)
+			RebuildScriptCaches (88ms)
+			SetupLoadedEditorAssemblies (721ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (23ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (35ms)
-				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (126ms)
-				ProcessInitializeOnLoadMethodAttributes (70ms)
+				InitializePlatformSupportModulesInManaged (53ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (97ms)
+				BeforeProcessingInitializeOnLoad (3ms)
+				ProcessInitializeOnLoadAttributes (395ms)
+				ProcessInitializeOnLoadMethodAttributes (172ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.011574 seconds.
+Registered in 0.023701 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.84 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 1.37 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.055 seconds
+- Completed reload, in  3.910 seconds
 Domain Reload Profiling:
-	ReloadAssembly (2056ms)
-		BeginReloadAssembly (358ms)
+	ReloadAssembly (3912ms)
+		BeginReloadAssembly (713ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (7ms)
+			DisableScriptedObjects (17ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (28ms)
-		EndReloadAssembly (1301ms)
-			LoadAssemblies (350ms)
+			CreateAndSetChildDomain (57ms)
+		EndReloadAssembly (2555ms)
+			LoadAssemblies (595ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (239ms)
+			SetupTypeCache (607ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (54ms)
-			SetupLoadedEditorAssemblies (665ms)
+			RebuildScriptCaches (135ms)
+			SetupLoadedEditorAssemblies (1130ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (26ms)
+				InitializePlatformSupportModulesInManaged (52ms)
 				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (268ms)
-				ProcessInitializeOnLoadAttributes (203ms)
-				ProcessInitializeOnLoadMethodAttributes (25ms)
-				AfterProcessingInitializeOnLoad (141ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (455ms)
+				ProcessInitializeOnLoadAttributes (332ms)
+				ProcessInitializeOnLoadMethodAttributes (60ms)
+				AfterProcessingInitializeOnLoad (228ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (31ms)
+			AwakeInstancesAfterBackupRestoration (63ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.19 seconds
-Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.33 seconds
+Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1297 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 15 unused Assets / (111.3 KB). Loaded Objects now: 1769.
-Memory consumption went from 63.6 MB to 63.5 MB.
-Total: 2.538500 ms (FindLiveObjects: 0.160200 ms CreateObjectMapping: 0.063300 ms MarkObjects: 2.210700 ms  DeleteObjects: 0.103200 ms)
+Memory consumption went from 63.7 MB to 63.6 MB.
+Total: 7.470000 ms (FindLiveObjects: 0.248500 ms CreateObjectMapping: 0.088800 ms MarkObjects: 6.870300 ms  DeleteObjects: 0.258600 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -159,55 +159,217 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 661.539675 seconds.
-  path: Assets/Model/building.fbx
-  artifactKey: Guid(6062547a27d744248bf7900d910db884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Model/building.fbx using Guid(6062547a27d744248bf7900d910db884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2751a026686035a81f8f8b44fa3ee8f1') in 3.489505 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 114.706410 seconds.
-  path: Assets/Model/building.fbx
-  artifactKey: Guid(6062547a27d744248bf7900d910db884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Model/building.fbx using Guid(6062547a27d744248bf7900d910db884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48e95b38ac4abb40f50765926038a96a') in 1.344322 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 146.407933 seconds.
-  path: Assets/Model/Materials/iullll__FireBrick.001.mat
-  artifactKey: Guid(d616de1ff3e609f4f97beed9933aa4a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Model/Materials/iullll__FireBrick.001.mat using Guid(d616de1ff3e609f4f97beed9933aa4a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5aacac1232f575f17ab8f1353125cca') in 0.121270 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000043 seconds.
-  path: Assets/Model/Materials/No Name.mat
-  artifactKey: Guid(acfccd738cc65ae4fa55d590c70b7349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Model/Materials/No Name.mat using Guid(acfccd738cc65ae4fa55d590c70b7349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a760def93292c277dd6602ba4440e574') in 0.058588 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.753833 seconds.
+  Time since last request: 44014.980895 seconds.
   path: Assets/Model/Materials/Screen01.mat
   artifactKey: Guid(424f5f69195b3864980251bf92459051) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Model/Materials/Screen01.mat using Guid(424f5f69195b3864980251bf92459051) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb76ede03592d05b6f0d74b57e88072e') in 0.033104 seconds 
+Start importing Assets/Model/Materials/Screen01.mat using Guid(424f5f69195b3864980251bf92459051) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a7935b762829f7c5d1b39a38bc47727') in 0.651598 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1730.293533 seconds.
-  path: Assets/Model/Materials/亭子墙壁.001.mat
-  artifactKey: Guid(f52c4061fd8dc904ab26c2b55b6a7f52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Model/Materials/亭子墙壁.001.mat using Guid(f52c4061fd8dc904ab26c2b55b6a7f52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5e03f021fff48110d7732f4aefa830b') in 0.024749 seconds 
+  Time since last request: 0.000045 seconds.
+  path: Assets/Model/Materials/柱子new.mat
+  artifactKey: Guid(d801a3a6745f0fc48869ae44ea086f20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Materials/柱子new.mat using Guid(d801a3a6745f0fc48869ae44ea086f20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55c062b84e5a42f33f5df96dede90261') in 0.070945 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 3.874604 seconds.
+  Time since last request: 0.000074 seconds.
+  path: Assets/Model/Materials/亭子顶.001.mat
+  artifactKey: Guid(6e44e6975d5de5944a49b572e9eef3c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Materials/亭子顶.001.mat using Guid(6e44e6975d5de5944a49b572e9eef3c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a58fe3e8d5dbe5c821c15c64c2a1a3e2') in 0.072718 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Model/Materials/底座new.mat
+  artifactKey: Guid(66c8d7b013c358844990caccbfb3fb69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Materials/底座new.mat using Guid(66c8d7b013c358844990caccbfb3fb69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20f314faed47b4c74577c24762725851') in 0.075432 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/Model/Materials/桥台阶.mat
+  artifactKey: Guid(24dbad5d373bf4c4fa8f0481f8f4daf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Materials/桥台阶.mat using Guid(24dbad5d373bf4c4fa8f0481f8f4daf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d09e56f544d3622e67597e6f9d19f27') in 0.075746 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Model/Materials/底座.001.mat
+  artifactKey: Guid(2fb432cb3529ca64897a90fb9b07b96f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Materials/底座.001.mat using Guid(2fb432cb3529ca64897a90fb9b07b96f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0657debf392f517620f7860e1e1ec0b4') in 0.070759 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 713.572192 seconds.
+  path: Assets/Shader/ToneMat.shader
+  artifactKey: Guid(deecc3cebb7a1d54c917d0bb046a9ee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/ToneMat.shader using Guid(deecc3cebb7a1d54c917d0bb046a9ee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38bc4189bad0c480a66316c437e2829b') in 0.021033 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 920.908663 seconds.
+  path: Assets/Shader/ToneMat.shader
+  artifactKey: Guid(deecc3cebb7a1d54c917d0bb046a9ee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/ToneMat.shader using Guid(deecc3cebb7a1d54c917d0bb046a9ee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74f95a8ae8e608b15e9184836b49c626') in 0.011263 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1902.780149 seconds.
+  path: Assets/Texture/Ramp_Texture2.psd
+  artifactKey: Guid(4323a2a343d9b6747b24b55a99947ea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Ramp_Texture2.psd using Guid(4323a2a343d9b6747b24b55a99947ea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5da47f4418596568623cc6d057f01fb8') in 0.160294 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.704077 seconds.
+  path: Assets/Texture/Ramp_Texture1.psd
+  artifactKey: Guid(7b9e05c4d2f693349be832cf8d16655d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Ramp_Texture1.psd using Guid(7b9e05c4d2f693349be832cf8d16655d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ce5f982da9453552989fdb8d8bee626') in 0.023528 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.442453 seconds.
+  path: Assets/Texture/Ramp_Texture0.psd
+  artifactKey: Guid(1339b3a181faefd4f8b8d735842f4689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Ramp_Texture0.psd using Guid(1339b3a181faefd4f8b8d735842f4689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '388932ae5fc1f87864d79330158f60fa') in 0.024447 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 284.442957 seconds.
+  path: Assets/Model/Materials/墙壁new.mat
+  artifactKey: Guid(ac8f3783cb790b04fbee6b9840985cfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Materials/墙壁new.mat using Guid(ac8f3783cb790b04fbee6b9840985cfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf71a7f1a5a3b5259b95b1f19f20de69') in 0.135389 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3902.620481 seconds.
+  path: Assets/Model/Materials/房顶new.mat
+  artifactKey: Guid(8cfbb1d633929d2448a4106ad9fcfb1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Materials/房顶new.mat using Guid(8cfbb1d633929d2448a4106ad9fcfb1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87d860f953ecfb7b58f1c2a05edf7a36') in 0.085951 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.426723 seconds.
+  path: Assets/Model/Materials/green.mat
+  artifactKey: Guid(5e53bc50cfd5da148ac7a22329f50216) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Materials/green.mat using Guid(5e53bc50cfd5da148ac7a22329f50216) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f1822ab3b5ed38c8c8d1a7a774c818e') in 0.042216 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 529.789678 seconds.
+  path: Assets/Model/Materials/墙壁new.mat
+  artifactKey: Guid(ac8f3783cb790b04fbee6b9840985cfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Materials/墙壁new.mat using Guid(ac8f3783cb790b04fbee6b9840985cfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a36fef0c64c678798235fb6a79fba09f') in 0.031203 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.617798 seconds.
+  path: Assets/Model/Materials/房顶new.mat
+  artifactKey: Guid(8cfbb1d633929d2448a4106ad9fcfb1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Materials/房顶new.mat using Guid(8cfbb1d633929d2448a4106ad9fcfb1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd88fce95a85c7a763864fe0d9cb96afc') in 0.022504 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.031534 seconds.
+  path: Assets/Model/Materials/柱子new.mat
+  artifactKey: Guid(d801a3a6745f0fc48869ae44ea086f20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Materials/柱子new.mat using Guid(d801a3a6745f0fc48869ae44ea086f20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35a912e71f946ee9bf6291ab77be95dd') in 0.023708 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 764.516139 seconds.
+  path: Assets/Model/Materials/pave.mat
+  artifactKey: Guid(4f4b4249d225b044fa3be2e992382b61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Materials/pave.mat using Guid(4f4b4249d225b044fa3be2e992382b61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0b1a51e5339373f74690446b14929a2') in 0.050094 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Model/Materials/Screen01.mat
+  artifactKey: Guid(424f5f69195b3864980251bf92459051) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Materials/Screen01.mat using Guid(424f5f69195b3864980251bf92459051) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '698285e5ff7d31e4e1ac6e9e752c76b8') in 0.047940 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 31.306403 seconds.
+  path: Assets/Model/Materials/TexturesCom_ConcreteStucco0173_1_seamless_S.mat
+  artifactKey: Guid(0e2503dd46011364186cd97cd955d488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Materials/TexturesCom_ConcreteStucco0173_1_seamless_S.mat using Guid(0e2503dd46011364186cd97cd955d488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba400fe12a4d8e990a110a1616c6859a') in 0.029892 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.069784 seconds.
+  path: Assets/Model/Materials/TexturesCom_FloorsRegular0193_1_seamless_S.mat
+  artifactKey: Guid(c226b0c6f5f288e46a93253996bdb9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Materials/TexturesCom_FloorsRegular0193_1_seamless_S.mat using Guid(c226b0c6f5f288e46a93253996bdb9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f5dfc9768934b47ed314849db16f96d') in 0.428385 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.016490 seconds.
+  path: Assets/Model/Materials/底座.001.mat
+  artifactKey: Guid(2fb432cb3529ca64897a90fb9b07b96f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Materials/底座.001.mat using Guid(2fb432cb3529ca64897a90fb9b07b96f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fba3ff02c59d956b31e46a9138010f1') in 0.024229 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 56.248473 seconds.
+  path: Assets/Model/Materials/底座new.mat
+  artifactKey: Guid(66c8d7b013c358844990caccbfb3fb69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Materials/底座new.mat using Guid(66c8d7b013c358844990caccbfb3fb69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48a482fee8be9f68b027327e6b133b14') in 0.026292 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 251.670489 seconds.
+  path: Assets/Model/Materials/iullll__FireBrick.mat
+  artifactKey: Guid(0c1e0d4cf47f37c4c85b01cca283e0b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Materials/iullll__FireBrick.mat using Guid(0c1e0d4cf47f37c4c85b01cca283e0b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebf6345cb03ed28f03bfddf77c74aee0') in 0.040743 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.109199 seconds.
+  path: Assets/Model/Materials/green.mat
+  artifactKey: Guid(5e53bc50cfd5da148ac7a22329f50216) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Materials/green.mat using Guid(5e53bc50cfd5da148ac7a22329f50216) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6741e0e9c471770540a4c7120a03eff0') in 0.388608 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.470048 seconds.
+  path: Assets/Model/Materials/桥1.mat
+  artifactKey: Guid(0903391f9571fa94eb3a53b8766fcf74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Materials/桥1.mat using Guid(0903391f9571fa94eb3a53b8766fcf74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3bd00aa4f8552889d56c5f4cb43a816') in 0.023866 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.037883 seconds.
+  path: Assets/Model/Materials/桥2.mat
+  artifactKey: Guid(9e8125b9a306ea145902c560d0272958) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Materials/桥2.mat using Guid(9e8125b9a306ea145902c560d0272958) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '714b02458ea832b009aece969e3c0b34') in 0.024080 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.478043 seconds.
+  path: Assets/Model/Materials/桥台阶.mat
+  artifactKey: Guid(24dbad5d373bf4c4fa8f0481f8f4daf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Materials/桥台阶.mat using Guid(24dbad5d373bf4c4fa8f0481f8f4daf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6158c39c4d17148961b006137b036abc') in 0.026968 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 707.448518 seconds.
+  path: Assets/Model/fence.fbx
+  artifactKey: Guid(c55dcbf4b8878f94d8c41406c361cd69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/fence.fbx using Guid(c55dcbf4b8878f94d8c41406c361cd69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '487e609445007946cb9f202a52183409') in 1.566826 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.294944 seconds.
   path: Assets/Model/building.fbx
   artifactKey: Guid(6062547a27d744248bf7900d910db884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Model/building.fbx using Guid(6062547a27d744248bf7900d910db884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e3c37455528e9243f9e53549c233bfd') in 1.299014 seconds 
+Start importing Assets/Model/building.fbx using Guid(6062547a27d744248bf7900d910db884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7925f539448b4648f264800432bbc5e3') in 1.637975 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 171.916202 seconds.
-  path: Assets/Model/building.fbx
-  artifactKey: Guid(6062547a27d744248bf7900d910db884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Model/building.fbx using Guid(6062547a27d744248bf7900d910db884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '232862e8ae558fa9758538a49902839a') in 1.421935 seconds 
+  Time since last request: 31.941325 seconds.
+  path: Assets/Model/fence.fbx
+  artifactKey: Guid(c55dcbf4b8878f94d8c41406c361cd69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/fence.fbx using Guid(c55dcbf4b8878f94d8c41406c361cd69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89e77f6ddbbfc1089c3e527f2e240fbe') in 0.668015 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 392.306105 seconds.
-  path: Assets/Model/building.fbx
-  artifactKey: Guid(6062547a27d744248bf7900d910db884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Model/building.fbx using Guid(6062547a27d744248bf7900d910db884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11600c1a96af3af116237ca894b8b416') in 1.344435 seconds 
+  Time since last request: 29.060892 seconds.
+  path: Assets/Model/Materials/走廊房梁.mat
+  artifactKey: Guid(2ef1cb7282370934d93d8648922571c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Materials/走廊房梁.mat using Guid(2ef1cb7282370934d93d8648922571c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd9c67f80859640d7b98e15f0013868a') in 0.025924 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 221.618892 seconds.
+  path: Assets/Model/Materials/桥1.mat
+  artifactKey: Guid(0903391f9571fa94eb3a53b8766fcf74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Materials/桥1.mat using Guid(0903391f9571fa94eb3a53b8766fcf74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5c396aa551289d9ea9aa2c9bf011f36') in 0.052831 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Model/Materials/桥台阶.mat
+  artifactKey: Guid(24dbad5d373bf4c4fa8f0481f8f4daf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Materials/桥台阶.mat using Guid(24dbad5d373bf4c4fa8f0481f8f4daf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bb84fd9719cc7089589c4b505752283') in 0.035639 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 471.481016 seconds.
+  path: Assets/Model/Materials/TexturesCom_FloorsRegular0193_1_seamless_S.mat
+  artifactKey: Guid(c226b0c6f5f288e46a93253996bdb9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Materials/TexturesCom_FloorsRegular0193_1_seamless_S.mat using Guid(c226b0c6f5f288e46a93253996bdb9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd24dfdc9b81917db65bdcca27a04a2b7') in 0.069736 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 783.641381 seconds.
+  path: Assets/Model/Materials/底座.001.mat
+  artifactKey: Guid(2fb432cb3529ca64897a90fb9b07b96f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Materials/底座.001.mat using Guid(2fb432cb3529ca64897a90fb9b07b96f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dc1add45522c334285728654599c0d4') in 0.032017 seconds 
