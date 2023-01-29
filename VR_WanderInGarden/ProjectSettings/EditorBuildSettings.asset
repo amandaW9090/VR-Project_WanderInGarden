@@ -9,4 +9,5 @@ EditorBuildSettings:
     path: Assets/Scenes/MinPanTestScene0129.unity
     guid: fa4f5f1222f906e4d8e795ea513bcafb
   m_configObjects:
+    Unity.XR.PXR.Settings: {fileID: 11400000, guid: d5e1dd96ec433e445b304727b7f0219d, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d4692b15e761bee4992491e6605e8c97, type: 2}
