@@ -15,7 +15,7 @@ C:/Users/danw9/Documents/GitHub/VR-Project_WanderInGarden/VR_WanderInGarden
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-6868
+1090
 Successfully changed project path to: C:/Users/danw9/Documents/GitHub/VR-Project_WanderInGarden/VR_WanderInGarden
 C:/Users/danw9/Documents/GitHub/VR-Project_WanderInGarden/VR_WanderInGarden
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -48,7 +48,7 @@ C:/Users/danw9/Documents/GitHub/VR-Project_WanderInGarden/VR_WanderInGarden
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
 AS: AutoStreaming module initializing.
-Refreshing native plugins compatible for Editor in 68.61 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 43.61 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.6f1c1 (07401303b748)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.6f1c1/Editor/Data/Resources/UnitySubsystems
@@ -64,87 +64,87 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1c1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1c1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56536
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56780
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.6f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.089002 seconds.
+Registered in 0.153865 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 60.74 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 30.69 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.809 seconds
+- Completed reload, in  2.135 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1809ms)
-		BeginReloadAssembly (364ms)
+	ReloadAssembly (2136ms)
+		BeginReloadAssembly (492ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (945ms)
-			LoadAssemblies (330ms)
+		EndReloadAssembly (971ms)
+			LoadAssemblies (433ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (238ms)
+			SetupTypeCache (543ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (58ms)
-			SetupLoadedEditorAssemblies (428ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (264ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (34ms)
+				InitializePlatformSupportModulesInManaged (23ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (61ms)
-				BeforeProcessingInitializeOnLoad (3ms)
-				ProcessInitializeOnLoadAttributes (223ms)
-				ProcessInitializeOnLoadMethodAttributes (107ms)
+				RefreshPlugins (31ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (128ms)
+				ProcessInitializeOnLoadMethodAttributes (80ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.017620 seconds.
+Registered in 0.012846 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.187 seconds
+- Completed reload, in  4.229 seconds
 Domain Reload Profiling:
-	ReloadAssembly (3189ms)
-		BeginReloadAssembly (587ms)
+	ReloadAssembly (4231ms)
+		BeginReloadAssembly (323ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (13ms)
+			DisableScriptedObjects (8ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (38ms)
-		EndReloadAssembly (1997ms)
-			LoadAssemblies (513ms)
+			CreateAndSetChildDomain (24ms)
+		EndReloadAssembly (1766ms)
+			LoadAssemblies (440ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (439ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (100ms)
-			SetupLoadedEditorAssemblies (944ms)
+			SetupTypeCache (496ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (80ms)
+			SetupLoadedEditorAssemblies (643ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (34ms)
+				InitializePlatformSupportModulesInManaged (26ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (360ms)
-				ProcessInitializeOnLoadAttributes (314ms)
-				ProcessInitializeOnLoadMethodAttributes (43ms)
-				AfterProcessingInitializeOnLoad (192ms)
+				BeforeProcessingInitializeOnLoad (264ms)
+				ProcessInitializeOnLoadAttributes (191ms)
+				ProcessInitializeOnLoadMethodAttributes (29ms)
+				AfterProcessingInitializeOnLoad (131ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (52ms)
+			AwakeInstancesAfterBackupRestoration (56ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.15 seconds
-Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.20 seconds
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1301 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 15 unused Assets / (111.8 KB). Loaded Objects now: 1774.
-Memory consumption went from 65.1 MB to 65.0 MB.
-Total: 5.429300 ms (FindLiveObjects: 0.212800 ms CreateObjectMapping: 0.080000 ms MarkObjects: 4.935500 ms  DeleteObjects: 0.198800 ms)
+Unloading 1302 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 15 unused Assets / (111.9 KB). Loaded Objects now: 1775.
+Memory consumption went from 65.2 MB to 65.1 MB.
+Total: 3.253600 ms (FindLiveObjects: 0.194600 ms CreateObjectMapping: 0.097400 ms MarkObjects: 2.785100 ms  DeleteObjects: 0.174900 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -159,85 +159,91 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 8825.390853 seconds.
+  Time since last request: 74831.705201 seconds.
+  path: Assets/Shader/Moss.shader
+  artifactKey: Guid(539f3d110e235874493242f6f9e1fd26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/Moss.shader using Guid(539f3d110e235874493242f6f9e1fd26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98abdf3710d97895debf182ad2c43060') in 0.070016 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6316.588914 seconds.
+  path: Assets/Shader/Moss.shader
+  artifactKey: Guid(539f3d110e235874493242f6f9e1fd26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/Moss.shader using Guid(539f3d110e235874493242f6f9e1fd26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e462d6eada026ef8fff95262403fef6') in 0.028886 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 63.709342 seconds.
+  path: Assets/Shader/Moss.shader
+  artifactKey: Guid(539f3d110e235874493242f6f9e1fd26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/Moss.shader using Guid(539f3d110e235874493242f6f9e1fd26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80c888b0ed7dc8866377c29204224f1c') in 0.008662 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 33.022438 seconds.
+  path: Assets/Shader/Moss.shader
+  artifactKey: Guid(539f3d110e235874493242f6f9e1fd26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/Moss.shader using Guid(539f3d110e235874493242f6f9e1fd26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '761dde9a3cc330a38f7f59f287005031') in 0.008046 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 683.507714 seconds.
+  path: Assets/Shader/Moss.mat
+  artifactKey: Guid(b44bf47c01021254c826a32e91f579d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/Moss.mat using Guid(b44bf47c01021254c826a32e91f579d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78b18c2ed8a6c1dcc4f21294393b94f6') in 0.266315 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1359.126207 seconds.
+  path: Assets/Texture/voronoi 3 - 512x512.png
+  artifactKey: Guid(6a7e21f68be5be34c9a70efdda4cd097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/voronoi 3 - 512x512.png using Guid(6a7e21f68be5be34c9a70efdda4cd097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30cb1bae24a87360ee5bfdf8c5b5430a') in 0.241209 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2227.007987 seconds.
   path: Assets/Model/bamboo.fbx
   artifactKey: Guid(1182acd062ca365468a2b18ee3732fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Model/bamboo.fbx using Guid(1182acd062ca365468a2b18ee3732fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3135820589c0b14259c8ac00e0232ea3') in 0.515928 seconds 
+Start importing Assets/Model/bamboo.fbx using Guid(1182acd062ca365468a2b18ee3732fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26d8e4e3056c7740cbc41ce0b2b45a98') in 0.810086 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 40.295324 seconds.
-  path: Assets/Material/Leaf_bamboo.mat
-  artifactKey: Guid(7fe4eabbe63efb149bdf12bc7dc597ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Material/Leaf_bamboo.mat using Guid(7fe4eabbe63efb149bdf12bc7dc597ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74df52194966823088e38e78c79a8260') in 0.087835 seconds 
+  Time since last request: 675.507398 seconds.
+  path: Assets/Shader/StoneWithMoss.shader
+  artifactKey: Guid(c21f866ac4547184bab6675386e75bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/StoneWithMoss.shader using Guid(c21f866ac4547184bab6675386e75bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1083dc0e4ef90919ad247db941905bdc') in 0.045261 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 49.999609 seconds.
-  path: Assets/Texture/bamboo.png
-  artifactKey: Guid(bbcd82f265cc8c848b72b3142c11cd6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Texture/bamboo.png using Guid(bbcd82f265cc8c848b72b3142c11cd6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99d2600f1a3de9e35dc61606eabc8bc7') in 0.095366 seconds 
+  Time since last request: 2947.881572 seconds.
+  path: Assets/Shader/StoneWithMoss.shader
+  artifactKey: Guid(c21f866ac4547184bab6675386e75bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/StoneWithMoss.shader using Guid(c21f866ac4547184bab6675386e75bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f0ac9bb2169155eec7f8bafb00b017a') in 0.013991 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 444.030525 seconds.
-  path: Assets/Material/Trunk_bamboo.mat
-  artifactKey: Guid(eaf73e0711b62d643a31128f8b28966e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Material/Trunk_bamboo.mat using Guid(eaf73e0711b62d643a31128f8b28966e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49e6446a9be43b59dc9e4992e310e227') in 0.024575 seconds 
+  Time since last request: 47.204936 seconds.
+  path: Assets/Shader/StoneWithMoss.shader
+  artifactKey: Guid(c21f866ac4547184bab6675386e75bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/StoneWithMoss.shader using Guid(c21f866ac4547184bab6675386e75bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c23e38749f1377e903b912abbec957e') in 0.010257 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 245.152557 seconds.
-  path: Assets/Material/Trunk_bamboo.mat
-  artifactKey: Guid(eaf73e0711b62d643a31128f8b28966e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Material/Trunk_bamboo.mat using Guid(eaf73e0711b62d643a31128f8b28966e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '720a13fe1d5d54835ce5898e18097d42') in 0.033338 seconds 
+  Time since last request: 20.488604 seconds.
+  path: Assets/Shader/StoneWithMoss.shader
+  artifactKey: Guid(c21f866ac4547184bab6675386e75bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/StoneWithMoss.shader using Guid(c21f866ac4547184bab6675386e75bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8bad1b7582caa0e0225be9b74c42964') in 0.008731 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 9842.306981 seconds.
-  path: Assets/Model/tree03.fbx
-  artifactKey: Guid(94c61c115f01655449bb09fb3490a75a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Model/tree03.fbx using Guid(94c61c115f01655449bb09fb3490a75a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f58393a0016b85380eaa30311b8661f') in 0.098689 seconds 
+  Time since last request: 98.495897 seconds.
+  path: Assets/Shader/StoneWithMoss.shader
+  artifactKey: Guid(c21f866ac4547184bab6675386e75bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/StoneWithMoss.shader using Guid(c21f866ac4547184bab6675386e75bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49dc9ffd14e5667f39048a262b21f4cb') in 0.012134 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 53.466298 seconds.
-  path: Assets/Texture/leaf_red.png
-  artifactKey: Guid(38af94abbfd8871439f70502a40dd81a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Texture/leaf_red.png using Guid(38af94abbfd8871439f70502a40dd81a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c7e051e3972b4b4b4cfe069a16ba67c') in 0.030952 seconds 
+  Time since last request: 14.043393 seconds.
+  path: Assets/Shader/StoneWithMoss.mat
+  artifactKey: Guid(361aad663e986244ea7f3daf4f41850f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/StoneWithMoss.mat using Guid(361aad663e986244ea7f3daf4f41850f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daaa69b5cfecbd279844f2204e63ffc4') in 0.311601 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 12.459628 seconds.
-  path: Assets/Material/Leaf_red.mat
-  artifactKey: Guid(5e0230b4c98b4044eafea15f6c5d9920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Material/Leaf_red.mat using Guid(5e0230b4c98b4044eafea15f6c5d9920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f59e35a254d515bfc7aaaeb598978aa2') in 0.024610 seconds 
+  Time since last request: 2036.452083 seconds.
+  path: Assets/Shader/Moss.shader
+  artifactKey: Guid(539f3d110e235874493242f6f9e1fd26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/Moss.shader using Guid(539f3d110e235874493242f6f9e1fd26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33344b609dc4c2cef8d44e635951f7f9') in 0.009801 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 128.856414 seconds.
-  path: Assets/Material/Leaf_bamboo.mat
-  artifactKey: Guid(7fe4eabbe63efb149bdf12bc7dc597ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Material/Leaf_bamboo.mat using Guid(7fe4eabbe63efb149bdf12bc7dc597ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab9e12ad3909b53fc6dfac91daf23cc9') in 0.046030 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 14.115119 seconds.
-  path: Assets/Material/Trunk.mat
-  artifactKey: Guid(04c5d3700297cce448144c46b769faa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Material/Trunk.mat using Guid(04c5d3700297cce448144c46b769faa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cffb4d0fb306798f9057c7abae81d63d') in 0.023714 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1534.141919 seconds.
-  path: Assets/Material/Trunk.mat
-  artifactKey: Guid(04c5d3700297cce448144c46b769faa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Material/Trunk.mat using Guid(04c5d3700297cce448144c46b769faa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01e68e25272b249ee9a190e8e251005f') in 0.175548 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2290.104450 seconds.
-  path: Assets/Model/stone02.fbx
-  artifactKey: Guid(14355013f1dd2614892e84d960f4fc03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Model/stone02.fbx using Guid(14355013f1dd2614892e84d960f4fc03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ec02bb3fb0675c4cbbea73251e9b82a') in 0.298774 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.113726 seconds.
-  path: Assets/Model/site.fbx
-  artifactKey: Guid(1010f26febd1c2b41b51965bc2357168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Model/site.fbx using Guid(1010f26febd1c2b41b51965bc2357168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '697cc79ff046b61cbf6d33fae0886137') in 0.276179 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 178.608409 seconds.
-  path: Assets/Material/Leaf_red.mat
-  artifactKey: Guid(5e0230b4c98b4044eafea15f6c5d9920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Material/Leaf_red.mat using Guid(5e0230b4c98b4044eafea15f6c5d9920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '929aeacf4c59eb4355b7adcc2f13b1d9') in 0.034722 seconds 
+  Time since last request: 27.898559 seconds.
+  path: Assets/Shader/Meadow.shader
+  artifactKey: Guid(ea89a02fe77c20147bd65a155b439708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/Meadow.shader using Guid(ea89a02fe77c20147bd65a155b439708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b33b9112ecec8c8ec77eb044ee025c33') in 0.018547 seconds 
